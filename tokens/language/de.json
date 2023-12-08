@@ -1,0 +1,8 @@
+{
+  "instrument-connections": {
+    "connect-disconnect": {
+      "value": "Instrument verbinden / trennen",
+      "type": "text"
+    }
+  }
+}
