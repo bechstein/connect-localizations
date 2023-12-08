@@ -1,7 +1,8 @@
 const { promises } = require('fs');
 
 const rootDir = 'tokens';
-const localizationsDir = 'localizations';
+const packageDir = 'package';
+const localizationsDir = `${packageDir}/localizations`;
 
 function flatten(json) {
     const result = {};
@@ -36,7 +37,7 @@ async function generateLocalizations() {
     } catch {
         console.warn(`${localizationsDir} does not exist`);
     } finally {
-        await promises.mkdir(localizationsDir)
+        await promises.mkdir(localizationsDir, { recursive: true });
     }
 
     themes.forEach((theme) => {

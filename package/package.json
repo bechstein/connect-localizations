@@ -1,0 +1,19 @@
+{
+  "name": "@cbechstein-digital/connect-localizations",
+  "version": "0.0.0",
+  "author": "C. Bechstein Digital GmbH",
+  "description": "Localizations package for the CB Connect app",
+  "keywords": [
+    "C. Bechstein",
+    "Localizations"
+  ],
+  "license": "Apache-2.0",
+  "files": [
+    "localizations/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbechstein-digital/connect-localizations",
+    "directory": "package/"
+  }
+}
