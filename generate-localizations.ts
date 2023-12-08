@@ -1,6 +1,7 @@
 const { promises } = require('fs');
 
 const rootDir = 'tokens';
+const localizationsDir = 'localizations';
 
 function flatten(json) {
     const result = {};
@@ -24,24 +25,33 @@ function flatten(json) {
     return result;
 }
 
-function generateLocalizations() {
-    promises.readFile(`${rootDir}/$metadata.json`, 'utf-8').then((metadata) => {
-        const filePaths = JSON.parse(metadata).tokenSetOrder;
-        promises.readFile(`${rootDir}/$themes.json`, 'utf-8').then((themesContent) => {
-            const themes = JSON.parse(themesContent);
-            themes.forEach((theme) => {
-                const languageFiles = Object.entries(theme.selectedTokenSets)
-                    .filter(([, val]) => val !== 'disabled')
-                    .map(([tokenSet]) => {
-                        return `tokens/${filePaths.find((file) => file.endsWith(tokenSet))}.json`
-                    });
-                languageFiles.forEach((file) => {
-                    promises.readFile(file, 'utf-8').then((unflattenedJson) => {
-                        console.log(flatten(JSON.parse(unflattenedJson)))
-                    })
-                })
-            })
+async function generateLocalizations() {
+    const metadata = await promises.readFile(`${rootDir}/$metadata.json`, 'utf-8');
+    const filePaths = JSON.parse(metadata).tokenSetOrder;
+    const themesContent = await promises.readFile(`${rootDir}/$themes.json`, 'utf-8');
+    const themes = JSON.parse(themesContent);
+    try {
+        await promises.readdir(localizationsDir, { recursive: true });
+        await promises.rm(localizationsDir, { recursive: true });
+    } catch {
+        console.warn(`${localizationsDir} does not exist`);
+    } finally {
+        await promises.mkdir(localizationsDir)
+    }
 
+    themes.forEach((theme) => {
+        const languageFiles = Object.entries(theme.selectedTokenSets)
+            .filter(([, val]) => val !== 'disabled')
+            .map(([tokenSet]) => {
+                return `tokens/${filePaths.find((file) => file.endsWith(tokenSet))}.json`
+            });
+        languageFiles.forEach(async (file) => {
+            const unflattenedJson = await promises.readFile(file, 'utf-8');
+            await promises.writeFile(
+                `${localizationsDir}/${file.split('/').pop()}`,
+                JSON.stringify(flatten(JSON.parse(unflattenedJson))),
+                'utf8'
+            );
         })
     })
 }
