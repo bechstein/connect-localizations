@@ -1,3 +1,4 @@
 {
-	"home.connect": "Connect"
+	"home.connect": "Connect",
+	"home.instruction": "Please tap on the button below to connect via Bluetooth MIDI. Alternatively you can connect the device and the piano via USB Cable."
 }
