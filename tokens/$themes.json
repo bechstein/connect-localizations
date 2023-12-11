@@ -1,20 +1,47 @@
 [
   {
-    "id": "cef6d9efa35f4480d99c74ca7300f877880caad9",
-    "name": "en",
+    "id": "b0d5f3ed1a67205211f950790d7127cdf36df948",
+    "name": "C.Bechstein",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "language/en": "enabled"
-    },
-    "group": "language"
+      "primitives": "source",
+      "semantics": "enabled",
+      "themes/cb-apps": "enabled",
+      "components/buttons/default-buttons": "enabled"
+    }
   },
   {
-    "id": "2712d70a9deb1de143e44dd4d2efdb039e656952",
+    "id": "2254a7f67087e20f9da483d51418ec66a7d1424b",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives": "source",
+      "semantics": "enabled",
+      "components/buttons/default-buttons": "enabled"
+    }
+  },
+  {
+    "id": "4e4324a8571ac0950bb14e9f9084974ff4829885",
     "name": "de",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "primitives": "source",
+      "semantics": "enabled",
+      "components/buttons/default-buttons": "enabled",
       "language/de": "enabled"
     },
-    "group": "language"
+    "group": "Language"
+  },
+  {
+    "id": "407a5f3f3e39808c2586c8481b649df0d2da74be",
+    "name": "en",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives": "source",
+      "semantics": "enabled",
+      "components/buttons/default-buttons": "enabled",
+      "language/en": "enabled"
+    },
+    "group": "Language"
   }
 ]
