@@ -51,7 +51,8 @@ async function generateLocalizations() {
             await promises.writeFile(
                 `${localizationsDir}/${file.split('/').pop()}`,
                 JSON.stringify(flatten(JSON.parse(unflattenedJson))),
-                'utf8'
+                'utf8',
+                '\t'
             );
         })
     })
