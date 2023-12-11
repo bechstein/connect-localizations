@@ -1,4 +1,5 @@
 {
-	"home.connect": "Connect",
-	"home.instruction": "Please tap on the button below to connect via Bluetooth MIDI. Alternatively you can connect the device and the piano via USB Cable."
+	"home.connect": "Connect / Disconnect Instrument",
+	"home.instruction": "Please tap on the button below to connect via Bluetooth MIDI. Alternatively you can connect the device and the piano via USB Cable.",
+	"info.imprint": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz"
 }
