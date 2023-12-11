@@ -3,6 +3,10 @@
     "connect": {
       "value": "Connect",
       "type": "text"
+    },
+    "instruction": {
+      "value": "Please tap on the button below to connect via Bluetooth MIDI. Alternatively you can connect the device and the piano via USB Cable.",
+      "type": "text"
     }
   }
 }
