@@ -50,9 +50,8 @@ async function generateLocalizations() {
             const unflattenedJson = await promises.readFile(file, 'utf-8');
             await promises.writeFile(
                 `${localizationsDir}/${file.split('/').pop()}`,
-                JSON.stringify(flatten(JSON.parse(unflattenedJson))),
+                JSON.stringify(flatten(JSON.parse(unflattenedJson)), null, '\t'),
                 'utf8',
-                '\t'
             );
         })
     })
