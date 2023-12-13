@@ -25,128 +25,114 @@
       "type": "text"
     }
   },
-  "calibrate-keys": {
-    "calibrate": {
-      "value": "Afterwards, please press \"Save\".",
-      "type": "text"
+  "calibration": {
+    "message": {
+      "save-call": {
+        "value": "Afterwards, please press \"Save\".",
+        "type": "text"
+      },
+      "rest-position-inprogress": {
+        "value": "Calibrating rest position…",
+        "type": "text"
+      },
+      "calibration-completed": {
+        "value": "Calibration completed",
+        "type": "text"
+      },
+      "not-needed": {
+        "value": "No calibration needed.",
+        "type": "text"
+      },
+      "start-instruction": {
+        "value": "To start the calibration please press the button below.",
+        "type": "text"
+      },
+      "cancel-calibration-description": {
+        "value": "By canceling the calibration the system will load the previously saved calibration data. Are you sure you want to cancel the calibration?",
+        "type": "text"
+      },
+      "rest-position-success": {
+        "value": "Rest position successfully calibrated.",
+        "type": "text"
+      }
     },
-    "calibrate-pressed-description": {
-      "value": "Now play one key at a time without applying additional pressure to calibrate the lowest position of each key.",
-      "type": "text"
+    "keys": {
+      "message": {
+        "key-press-instruction": {
+          "value": "Now play one key at a time without applying additional pressure to calibrate the lowest position of each key.",
+          "type": "text"
+        },
+        "rest-position-instruction": {
+          "value": "The system will now start calibrating the rest position of the keys. Do not touch any keys during this process.",
+          "type": "text"
+        },
+        "success": {
+          "value": "Key calibration done",
+          "type": "text"
+        }
+      },
+      "status": {
+        "calibrated": {
+          "value": "Your keyboard is calibrated",
+          "type": "text"
+        },
+        "not-calibrated": {
+          "value": "Your keyboard needs to be calibrated",
+          "type": "text"
+        },
+        "partially-calibrated": {
+          "value": "Some of your keys may need to be calibrated.",
+          "type": "text"
+        }
+      }
     },
-    "calibrate-pressed-position": {
-      "value": "Afterwards, please press \"Save\".",
-      "type": "text"
+    "interaction": {
+      "save": {
+        "value": "Save",
+        "type": "text"
+      },
+      "recalibrate": {
+        "value": "Recalibrate",
+        "type": "text"
+      },
+      "start-calibration": {
+        "value": "Start Calibration",
+        "type": "text"
+      },
+      "cancel-calibration": {
+        "value": "Cancel calibration",
+        "type": "text"
+      }
     },
-    "calibrate-pressed-save": {
-      "value": "Save",
-      "type": "text"
-    },
-    "calibrate-resting-position": {
-      "value": "The system will now start calibrating the rest position of the keys. Do not touch any keys during this process.",
-      "type": "text"
-    },
-    "calibrating-rest-position": {
-      "value": "Calibrating rest position…",
-      "type": "text"
-    },
-    "calibration-completed": {
-      "value": "Calibration completed",
-      "type": "text"
-    },
-    "calibration-done": {
-      "value": "Key calibration done",
-      "type": "text"
-    },
-    "fully-calibrated": {
-      "value": "Your keyboard is calibrated",
-      "type": "text"
-    },
-    "needs-calibration": {
-      "value": "Your keyboard needs to be calibrated",
-      "type": "text"
-    },
-    "no-calibration-needed": {
-      "value": "No calibration needed.",
-      "type": "text"
-    },
-    "recalibrate": {
-      "value": "Recalibrate",
-      "type": "text"
-    },
-    "some-need-calibration": {
-      "value": "Some of your keys may need to be calibrated.",
-      "type": "text"
-    },
-    "start-calibration": {
-      "value": "Start Calibration",
-      "type": "text"
-    },
-    "start-calibration-description": {
-      "value": "Press \"Start Calibration\" with all keys in rest position and wait for 2 seconds.",
-      "type": "text"
-    },
-    "start-instruction": {
-      "value": "To start the calibration please press the button below.",
-      "type": "text"
-    },
-    "title": {
-      "value": "Key Calibration",
-      "type": "text"
-    },
-    "cancel-calibration-description": {
-      "value": "By canceling the calibration the system will load the previously saved calibration data. Are you sure you want to cancel the calibration?",
-      "type": "text"
-    },
-    "rest-position-success": {
-      "value": "Rest position successfully calibrated.",
-      "type": "text"
-    },
-    "cancel-calibration": {
-      "value": "Cancel calibration",
-      "type": "text"
-    }
-  },
-  "calibrate-pedals": {
-    "calibration-instruction": {
-      "value": "Now press down one pedal after the other to calibrate the lowest position.",
-      "type": "text"
-    },
-    "cancel-calibration": {
-      "value": "Cancel calibration?",
-      "type": "text"
-    },
-    "cancel-calibration-description": {
-      "value": "By canceling the calibration the system will load the previously saved calibration data. Are you sure you want to cancel the calibration?",
-      "type": "text"
-    },
-    "fully-calibrated": {
-      "value": "Your pedals are calibrated.",
-      "type": "text"
-    },
-    "need-calibration": {
-      "value": "Your pedals need to be calibrated.",
-      "type": "text"
-    },
-    "rest-position-description": {
-      "value": "The system will now start calibrating the rest position of the pedals. Do not touch any pedal during this process.",
-      "type": "text"
-    },
-    "rest-position-success": {
-      "value": "Rest position successfully calibrated.",
-      "type": "text"
-    },
-    "restart-instrument": {
-      "value": "You will need to restart your instrument to load the previously saved configuration.",
-      "type": "text"
-    },
-    "some-need-calibration": {
-      "value": "Some of your pedals may need to be calibrated.",
-      "type": "text"
-    },
-    "title": {
-      "value": "Pedal Calibration",
-      "type": "text"
+    "pedals": {
+      "message": {
+        "success": {
+          "value": "Pedal calibration done",
+          "type": "text"
+        },
+        "pedal-press-instruction": {
+          "value": "Now press down one pedal after the other to calibrate the lowest position.",
+          "type": "text"
+        },
+        "rest-position-instruction": {
+          "value": "The system will now start calibrating the rest position of the pedals. Do not touch any pedal during this process.",
+          "type": "text"
+        }
+      },
+      "status": {
+        "calibrated": {
+          "value": "Your pedals are calibrated.",
+          "type": "text"
+        },
+        "not-calibrated": {
+          "value": "Your pedals need to be calibrated.",
+          "type": "text"
+        },
+        "partially-calibrated": {
+          "value": "Some of your pedals may need to be calibrated.",
+          "type": "text"
+        }
+      }
     }
   },
   "error": {
@@ -259,7 +245,7 @@
       "type": "text"
     },
     "retry": {
-      "value": "Retry",
+      "value": "Refresh",
       "type": "text"
     },
     "compatibility-error-title": {
@@ -303,6 +289,10 @@
     "third-instruction": {
       "value": "The damper trigger has an effect on the possibility of repeating. If the two values - hammer and damper - are too far apart, the key may have to fall back too far before it can be triggered again. For many instruments, a distance of around 20 has proven to be optimal.",
       "type": "text"
+    },
+    "minimum-gap-hint": {
+      "value": "Note: The two values must have a minimum distance of {{vm.minimumGap}}.",
+      "type": "text"
     }
   },
   "midi-devices": {
@@ -330,8 +320,12 @@
     }
   },
   "pedals-adjustment": {
-    "digital-pedal": {
+    "pedal-down-trigger": {
       "value": "Pedal Down Trigger",
+      "type": "text"
+    },
+    "pedal-up-trigger": {
+      "value": "Pedal Up Trigger",
       "type": "text"
     },
     "first-instruction": {
@@ -467,7 +461,7 @@
       "type": "text"
     },
     "abort-changes": {
-      "value": "Abord changes",
+      "value": "Abort changes",
       "type": "text"
     },
     "recalibration-required-description": {
