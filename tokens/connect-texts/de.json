@@ -1,0 +1,460 @@
+{
+  "aftertouch": {
+    "cc-monophonic": {
+      "value": "CC (Modulationsrad)",
+      "type": "text"
+    },
+    "monophonic": {
+      "value": "Monophonic",
+      "type": "text"
+    },
+    "off": {
+      "value": "Aus",
+      "type": "text"
+    },
+    "polyphonic": {
+      "value": "Polyphonic",
+      "type": "text"
+    }
+  },
+  "calibrate-keys": {
+    "calibrate": {
+      "value": "Anschließend bitte auf \"Speichern\" drücken.",
+      "type": "text"
+    },
+    "calibrate-pressed-description": {
+      "value": "Spiele nun eine Taste nach der anderen, ohne zusätzlichen Druck auszuüben, um die tiefste Position jeder Taste zu kalibrieren.",
+      "type": "text"
+    },
+    "calibrate-pressed-position": {
+      "value": "Anschließend bitte auf \"Speichern\" drücken.",
+      "type": "text"
+    },
+    "calibrate-pressed-save": {
+      "value": "Speichern",
+      "type": "text"
+    },
+    "calibrate-resting-position": {
+      "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Tastatur. Berühre während dieses Vorgangs keine Tasten.",
+      "type": "text"
+    },
+    "calibrating-rest-position": {
+      "value": "Kalibrierung der Ruheposition…",
+      "type": "text"
+    },
+    "calibration-completed": {
+      "value": "Kalibrierung abgeschlossen",
+      "type": "text"
+    },
+    "calibration-done": {
+      "value": "Tastenkalibrierung abgeschlossen",
+      "type": "text"
+    },
+    "fully-calibrated": {
+      "value": "Deine Tastatur ist nun kalibriert",
+      "type": "text"
+    },
+    "needs-calibration": {
+      "value": "Deine Tastatur muss kalibriert werden",
+      "type": "text"
+    },
+    "no-calibration-needed": {
+      "value": "Keine Kalibrierung erforderlich.",
+      "type": "text"
+    },
+    "recalibrate": {
+      "value": "Neu kalibrieren",
+      "type": "text"
+    },
+    "some-need-calibration": {
+      "value": "Einige deiner Tasten müssen möglicherweise kalibriert werden.",
+      "type": "text"
+    },
+    "start-calibration": {
+      "value": "Kalibrierung starten",
+      "type": "text"
+    },
+    "start-calibration-description": {
+      "value": "Drücke \"Kalibrierung starten\", während sich alle Tasten in der Ruheposition befinden, und warte 2 Sekunden.",
+      "type": "text"
+    },
+    "start-instruction": {
+      "value": "Klicke hier, um die Kalibrierung zu starten.",
+      "type": "text"
+    },
+    "title": {
+      "value": "Tastenkalibrierung",
+      "type": "text"
+    }
+  },
+  "calibrate-pedals": {
+    "calibration-instruction": {
+      "value": "Tritt nun ein Pedal nach dem anderen, um die tiefste Position zu kalibrieren.",
+      "type": "text"
+    },
+    "cancel-calibration": {
+      "value": "Kalibrierung abbrechen?",
+      "type": "text"
+    },
+    "cancel-calibration-description": {
+      "value": "Wenn du die Kalibrierung abbrichst, lädt das System die zuvor gespeicherten Kalibrierungsdaten. Bist du sicher, dass du die Kalibrierung abbrechen möchtest?",
+      "type": "text"
+    },
+    "fully-calibrated": {
+      "value": "Deine Pedale sind kalibriert.",
+      "type": "text"
+    },
+    "need-calibration": {
+      "value": "Deine Pedale müssen kalibriert werden.",
+      "type": "text"
+    },
+    "rest-position-description": {
+      "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Pedale. Berühre während dieses Vorgangs kein Pedal.",
+      "type": "text"
+    },
+    "rest-position-success": {
+      "value": "Ruheposition erfolgreich kalibriert.",
+      "type": "text"
+    },
+    "restart-instrument": {
+      "value": "Du musst dein Gerät neu starten, um die zuvor gespeicherte Konfiguration zu laden.",
+      "type": "text"
+    },
+    "some-need-calibration": {
+      "value": "Einige deiner Pedale müssen möglicherweise kalibriert werden.",
+      "type": "text"
+    },
+    "title": {
+      "value": "Pedalkalibrierung",
+      "type": "text"
+    }
+  },
+  "error": {
+    "cancel": {
+      "value": "Refresh",
+      "type": "text"
+    },
+    "discovery-failed": {
+      "value": "Verbindung zu {{device}} fehlgeschlagen",
+      "type": "text"
+    },
+    "ok": {
+      "value": "Ok",
+      "type": "text"
+    },
+    "retry": {
+      "value": "Retry",
+      "type": "text"
+    },
+    "title": {
+      "value": "An error occurred",
+      "type": "text"
+    }
+  },
+  "home": {
+    "auto-standby": {
+      "value": "Auto-Power-Off",
+      "type": "text"
+    },
+    "connect-instrument": {
+      "value": "Verbindungen verwalten",
+      "type": "text"
+    },
+    "firmware": {
+      "value": "Firmware",
+      "type": "text"
+    },
+    "instrument-connection": {
+      "value": "Verbindungen verwalten",
+      "type": "text"
+    },
+    "keys-adjustment": {
+      "value": "Tastaturanpassung",
+      "type": "text"
+    },
+    "keys-calibration": {
+      "value": "Tastenkalibrierung",
+      "type": "text"
+    },
+    "midi-connection": {
+      "value": "MIDI-Verbindung",
+      "type": "text"
+    },
+    "pedals-adjustment": {
+      "value": "Pedalanpassung",
+      "type": "text"
+    },
+    "pedals-calibration": {
+      "value": "Pedalkalibrierung",
+      "type": "text"
+    },
+    "sensor-brightness": {
+      "value": "Sensorik-Helligkeit",
+      "type": "text"
+    },
+    "split-keyboard": {
+      "value": "Tastatur teilen",
+      "type": "text"
+    },
+    "studio-touch": {
+      "value": "Studio Touch",
+      "type": "text"
+    },
+    "system-status": {
+      "value": "Systemstatus",
+      "type": "text"
+    },
+    "tips-and-advices": {
+      "value": "Tipps und Hinweise",
+      "type": "text"
+    }
+  },
+  "instruments": {
+    "checking-instrument-connection": {
+      "value": "Prüfe Verbindung zum Instrument",
+      "type": "text"
+    },
+    "choose-instrument": {
+      "value": "Bitte Instrument auswählen",
+      "type": "text"
+    },
+    "connect-description": {
+      "value": "Bitte auf \"Instrument verbinden / trennen\" tippen, um eine Verbindung über Bluetooth-MIDI herzustellen. Falls verfügbar, kann das Instrument auch über ein USB-Kabel verbunden werden.",
+      "type": "text"
+    },
+    "connect-disconnect-instrument": {
+      "value": "Instrument verbinden / trennen",
+      "type": "text"
+    },
+    "loading-instrument": {
+      "value": "lädt…",
+      "type": "text"
+    },
+    "no-instrument-available": {
+      "value": "Das Gerät ist derzeit nicht mit einem Instrument mit C. Bechstein Connect verbunden.",
+      "type": "text"
+    },
+    "retry": {
+      "value": "Aktualisieren",
+      "type": "text"
+    },
+    "compatibility-error-title": {
+      "value": "Kompatibilitätsfehler",
+      "type": "text"
+    },
+    "compatibility-error-message": {
+      "value": "Das verbundene Instrument scheint keinen C. Bechstein Connect zu haben. Bitte verbinde ein anderes Instrument.\n\nWenn das Instrument ein C. Bechstein Connect hat, drücke bitte auf \"Aktualisieren\".",
+      "type": "text"
+    }
+  },
+  "keys-adjustment": {
+    "digital-damper": {
+      "value": "Dämpferauslösung",
+      "type": "text"
+    },
+    "digital-hammer": {
+      "value": "Hammerauslösung",
+      "type": "text"
+    },
+    "first-instruction": {
+      "value": "Liegt die Position der Hammerauslösung zu weit oben (bei vielen Tastaturen entspricht dies einem Wert von 40 oder weniger), benötigst du mehr Kraft, um ein klangliches Ergebnis im Forte/Fortissimo-Bereich zu erzielen.",
+      "type": "text"
+    },
+    "fourth-instruction": {
+      "value": "Viele Benutzer halten einen Wert von 60-65 für den optimalen Wert für die Hammerauslösung.",
+      "type": "text"
+    },
+    "instruction-footer": {
+      "value": "Die Einstellungen für Hammer- und Dämpferauslöser sind als eine Art Rahmen zu verstehen, in dessen Grenzen du die Einstellungen an dein gewünschtes dynamisches Verhalten der Tastatur anpassen kannst.",
+      "type": "text"
+    },
+    "instruction-header": {
+      "value": "Die Auslösewerte stellen die Position dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
+      "type": "text"
+    },
+    "second-instruction": {
+      "value": "Ist die Position der Hammerauslösung hingegen sehr niedrig (etwa 70 oder mehr), gelangst du möglicherweise zu schnell ins Forte - stelle ihn zurück.",
+      "type": "text"
+    },
+    "third-instruction": {
+      "value": "ie Dämpferauslösung hat Auswirkungen auf die Möglichkeit des Repetierens. Befinden sich beide Werte – Hammer und Dämpfer – zu weit auseinander, muss die Taste u.U. zu weit zurückfallen, um neu auslösen zu können. Bei vielen Instrumenten hat sich ein Abstand von etwa 20 als optimal herausgestellt.",
+      "type": "text"
+    }
+  },
+  "midi-devices": {
+    "bluetooth": {
+      "devices": {
+        "value": "Verbinden / Trennen",
+        "type": "text"
+      },
+      "title": {
+        "value": "Bluetooth-MIDI-Geräte",
+        "type": "text"
+      }
+    },
+    "connect-devices": {
+      "value": "Geräte verbinden",
+      "type": "text"
+    },
+    "input-ports": {
+      "value": "Input Ports",
+      "type": "text"
+    },
+    "output-ports": {
+      "value": "Output Ports",
+      "type": "text"
+    }
+  },
+  "pedals-adjustment": {
+    "digital-pedal": {
+      "value": "Pedal auslösen",
+      "type": "text"
+    },
+    "first-instruction": {
+      "value": "Der Wert Pedal Up Trigger (unten) kann nicht höher sein als der Triggerpunkt oben, genau wie beim akustischen Modell.",
+      "type": "text"
+    },
+    "instruction-header": {
+      "value": "Mit dieser Option kannst du den Schaltpunkt des Pedals festlegen, d.h. du legst fest, bei welcher Position des mechanischen Pedals das elektronische Pedal reagiert.",
+      "type": "text"
+    },
+    "minimum-gap-hint": {
+      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von { vm.minimumGap } haben.",
+      "type": "text"
+    },
+    "second-instruction": {
+      "value": "Je niedriger der Wert, desto \"höher\" (im Sinne einer höheren Position) ist der entsprechende Schaltpunkt.",
+      "type": "text"
+    },
+    "third-instruction": {
+      "value": "Die Einstellung der Schaltpunkte wird nach jeder Kalibrierung der Pedale empfohlen.",
+      "type": "text"
+    }
+  },
+  "studio": {
+    "enable-midi": {
+      "value": "Aktiviere MIDI High Resolution Velocity Prefix (CC 88)",
+      "type": "text"
+    },
+    "high-resolution": {
+      "value": "High Resolution Velocity",
+      "type": "text"
+    },
+    "key-position": {
+      "value": "Key Position Streaming",
+      "type": "text"
+    },
+    "midi-aftertouch": {
+      "value": "MIDI-Aftertouch",
+      "type": "text"
+    },
+    "release-velocity": {
+      "value": "Release Velocity",
+      "type": "text"
+    },
+    "send-position": {
+      "value": "Positionen per CC senden",
+      "type": "text"
+    },
+    "support-vertical-position": {
+      "value": "Unterstützung für vertikale Position auf Kanal 1 (CC 31 & CC 63)",
+      "type": "text"
+    },
+    "visualize-key": {
+      "value": "Visualisierung von Tastenbewegungen in unterstützenden Anwendungen (z. B. doozzoo)",
+      "type": "text"
+    }
+  },
+  "words": {
+    "attention": {
+      "value": "Achtung",
+      "type": "text"
+    },
+    "back": {
+      "value": "Zurück",
+      "type": "text"
+    },
+    "cancel": {
+      "value": "Abbrechen",
+      "type": "text"
+    },
+    "instructions": {
+      "value": "Hinweise",
+      "type": "text"
+    },
+    "no": {
+      "value": "Nein",
+      "type": "text"
+    },
+    "reset": {
+      "value": "Zurücksetzen",
+      "type": "text"
+    },
+    "yes": {
+      "value": "Ja",
+      "type": "text"
+    },
+    "okay": {
+      "value": "OK",
+      "type": "text"
+    }
+  },
+  "sensor-brightness-control": {
+    "instruction": {
+      "recommended-settings": {
+        "value": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter belassen Sie zunächst auf 0.",
+        "type": "text"
+      },
+      "recalibration-needed": {
+        "value": "Eine Neukalibrierung ist nach jeder Änderung der Sensorhelligkeit erforderlich.",
+        "type": "text"
+      },
+      "reduce-brightness-hint": {
+        "value": "Lässt sich die Klaviatur nicht Kalibrieren, weil Noten direkt ausgelöst werden, ohne dass Sie eine Taste drücken, setzen Sie den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
+        "type": "text"
+      },
+      "increase-brightness-hint": {
+        "value": "Lässt sich die Klaviatur nicht Kalibrieren, obwohl Sie eine Taste drücken, setzen Sie den Helligkeitswert wieder herauf.",
+        "type": "text"
+      }
+    },
+    "key-sensor-led-brightness": {
+      "value": "Tastensensor LED Helligkeit",
+      "type": "text"
+    },
+    "black-white-ratio": {
+      "value": "Schwarz / Weiße Tasten Verhältnis",
+      "type": "text"
+    },
+    "recalibration-required": {
+      "value": "Neukalibrierung erforderlich",
+      "type": "text"
+    },
+    "calibrate-now": {
+      "value": "Jetzt kalibrieren",
+      "type": "text"
+    },
+    "abort-changes": {
+      "value": "Änderungen abbrechen",
+      "type": "text"
+    },
+    "recalibration-required-description": {
+      "value": "Die Tastensensor LED Helligkeit wurde geändert. Dies erfordert eine Neukalibrierung der Tasten.",
+      "type": "text"
+    }
+  },
+  "key-detail-adjustment-screen": {
+    "keyboard-sensitivity": {
+      "value": "Die Empfindlichkeit des Sensorik kann über den Helligkeitsregler des Tastensensors eingestellt werden.",
+      "type": "text"
+    },
+    "technician-support": {
+      "value": "Diese Einstellungen sollten nur von einem Techniker oder unter Anleitung des technischen Kundendienstes geändert werden.",
+      "type": "text"
+    },
+    "sensor-brightness-control": {
+      "value": "Sensor-Helligkeit einstellen",
+      "type": "text"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "language/en",
-    "language/de"
+    "connect-texts/de",
+    "connect-texts/en"
   ]
 }

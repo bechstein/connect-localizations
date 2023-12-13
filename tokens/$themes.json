@@ -1,22 +1,10 @@
 [
   {
-    "id": "b0d5f3ed1a67205211f950790d7127cdf36df948",
-    "name": "C.Bechstein",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
-  },
-  {
-    "id": "2254a7f67087e20f9da483d51418ec66a7d1424b",
-    "name": "Default",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
-  },
-  {
     "id": "4e4324a8571ac0950bb14e9f9084974ff4829885",
     "name": "de",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "language/de": "enabled"
+      "connect-texts/de": "enabled"
     },
     "group": "Language"
   },
@@ -25,7 +13,7 @@
     "name": "en",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "language/en": "enabled"
+      "connect-texts/en": "enabled"
     },
     "group": "Language"
   }

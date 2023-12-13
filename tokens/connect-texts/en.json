@@ -1,0 +1,492 @@
+{
+  "aftertouch": {
+    "cc-monophonic": {
+      "value": "CC (Modulation Wheel)",
+      "type": "text"
+    },
+    "monophonic": {
+      "value": "Monophonic",
+      "type": "text"
+    },
+    "off": {
+      "value": "Off",
+      "type": "text"
+    },
+    "polyphonic": {
+      "value": "Polyphonic",
+      "type": "text"
+    },
+    "responsivness": {
+      "value": "Responsivness",
+      "type": "text"
+    },
+    "responsivness-description": {
+      "value": "The higher you set the reactivity, the less forcefully the key has to be pressed.",
+      "type": "text"
+    }
+  },
+  "calibrate-keys": {
+    "calibrate": {
+      "value": "Afterwards, please press \"Save\".",
+      "type": "text"
+    },
+    "calibrate-pressed-description": {
+      "value": "Now play one key at a time without applying additional pressure to calibrate the lowest position of each key.",
+      "type": "text"
+    },
+    "calibrate-pressed-position": {
+      "value": "Afterwards, please press \"Save\".",
+      "type": "text"
+    },
+    "calibrate-pressed-save": {
+      "value": "Save",
+      "type": "text"
+    },
+    "calibrate-resting-position": {
+      "value": "The system will now start calibrating the rest position of the keys. Do not touch any keys during this process.",
+      "type": "text"
+    },
+    "calibrating-rest-position": {
+      "value": "Calibrating rest position…",
+      "type": "text"
+    },
+    "calibration-completed": {
+      "value": "Calibration completed",
+      "type": "text"
+    },
+    "calibration-done": {
+      "value": "Key calibration done",
+      "type": "text"
+    },
+    "fully-calibrated": {
+      "value": "Your keyboard is calibrated",
+      "type": "text"
+    },
+    "needs-calibration": {
+      "value": "Your keyboard needs to be calibrated",
+      "type": "text"
+    },
+    "no-calibration-needed": {
+      "value": "No calibration needed.",
+      "type": "text"
+    },
+    "recalibrate": {
+      "value": "Recalibrate",
+      "type": "text"
+    },
+    "some-need-calibration": {
+      "value": "Some of your keys may need to be calibrated.",
+      "type": "text"
+    },
+    "start-calibration": {
+      "value": "Start Calibration",
+      "type": "text"
+    },
+    "start-calibration-description": {
+      "value": "Press \"Start Calibration\" with all keys in rest position and wait for 2 seconds.",
+      "type": "text"
+    },
+    "start-instruction": {
+      "value": "To start the calibration please press the button below.",
+      "type": "text"
+    },
+    "title": {
+      "value": "Key Calibration",
+      "type": "text"
+    },
+    "cancel-calibration-description": {
+      "value": "By canceling the calibration the system will load the previously saved calibration data. Are you sure you want to cancel the calibration?",
+      "type": "text"
+    },
+    "rest-position-success": {
+      "value": "Rest position successfully calibrated.",
+      "type": "text"
+    },
+    "cancel-calibration": {
+      "value": "Cancel calibration",
+      "type": "text"
+    }
+  },
+  "calibrate-pedals": {
+    "calibration-instruction": {
+      "value": "Now press down one pedal after the other to calibrate the lowest position.",
+      "type": "text"
+    },
+    "cancel-calibration": {
+      "value": "Cancel calibration?",
+      "type": "text"
+    },
+    "cancel-calibration-description": {
+      "value": "By canceling the calibration the system will load the previously saved calibration data. Are you sure you want to cancel the calibration?",
+      "type": "text"
+    },
+    "fully-calibrated": {
+      "value": "Your pedals are calibrated.",
+      "type": "text"
+    },
+    "need-calibration": {
+      "value": "Your pedals need to be calibrated.",
+      "type": "text"
+    },
+    "rest-position-description": {
+      "value": "The system will now start calibrating the rest position of the pedals. Do not touch any pedal during this process.",
+      "type": "text"
+    },
+    "rest-position-success": {
+      "value": "Rest position successfully calibrated.",
+      "type": "text"
+    },
+    "restart-instrument": {
+      "value": "You will need to restart your instrument to load the previously saved configuration.",
+      "type": "text"
+    },
+    "some-need-calibration": {
+      "value": "Some of your pedals may need to be calibrated.",
+      "type": "text"
+    },
+    "title": {
+      "value": "Pedal Calibration",
+      "type": "text"
+    }
+  },
+  "error": {
+    "cancel": {
+      "value": "Refresh",
+      "type": "text"
+    },
+    "discovery-failed": {
+      "value": "Connection to {{device}} failed",
+      "type": "text"
+    },
+    "ok": {
+      "value": "Ok",
+      "type": "text"
+    },
+    "retry": {
+      "value": "Retry",
+      "type": "text"
+    },
+    "title": {
+      "value": "An error occurred",
+      "type": "text"
+    }
+  },
+  "home": {
+    "auto-standby": {
+      "value": "Auto Power Off",
+      "type": "text"
+    },
+    "connect-instrument": {
+      "value": "Manage Connections",
+      "type": "text"
+    },
+    "firmware": {
+      "value": "Firmware",
+      "type": "text"
+    },
+    "instrument-connection": {
+      "value": "Manage Connections",
+      "type": "text"
+    },
+    "keys-adjustment": {
+      "value": "Key Adjustment",
+      "type": "text"
+    },
+    "keys-calibration": {
+      "value": "Key Calibration",
+      "type": "text"
+    },
+    "midi-connection": {
+      "value": "MIDI Connection",
+      "type": "text"
+    },
+    "pedals-adjustment": {
+      "value": "Pedal Adjustment",
+      "type": "text"
+    },
+    "pedals-calibration": {
+      "value": "Pedal Calibration",
+      "type": "text"
+    },
+    "sensor-brightness": {
+      "value": "Sensor brightness",
+      "type": "text"
+    },
+    "split-keyboard": {
+      "value": "Split Keyboard",
+      "type": "text"
+    },
+    "studio-touch": {
+      "value": "Studio Touch",
+      "type": "text"
+    },
+    "system-status": {
+      "value": "System Status",
+      "type": "text"
+    },
+    "tips-and-advices": {
+      "value": "Tips and Advice",
+      "type": "text"
+    },
+    "help-info": {
+      "value": "Help & Information",
+      "type": "text"
+    }
+  },
+  "instruments": {
+    "checking-instrument-connection": {
+      "value": "Checking instrument connection",
+      "type": "text"
+    },
+    "choose-instrument": {
+      "value": "Please choose your instrument",
+      "type": "text"
+    },
+    "connect-description": {
+      "value": "Please tap on “Connect / Disconnect Instrument” to connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
+      "type": "text"
+    },
+    "connect-disconnect-instrument": {
+      "value": "Connect / Disconnect Instrument",
+      "type": "text"
+    },
+    "loading-instrument": {
+      "value": "loading…",
+      "type": "text"
+    },
+    "no-instrument-available": {
+      "value": "Your device is currently not connected to an instrument with C. Bechstein Connect.",
+      "type": "text"
+    },
+    "retry": {
+      "value": "Retry",
+      "type": "text"
+    },
+    "compatibility-error-title": {
+      "value": "Compatibility Error",
+      "type": "text"
+    },
+    "compatibility-error-message": {
+      "value": "The instrument you connected seems to have no C. Bechstein Connect. Please connect another instrument.\n\nIf the instrument has a C. Bechstein Connect, please press on “Refresh”.",
+      "type": "text"
+    }
+  },
+  "keys-adjustment": {
+    "digital-damper": {
+      "value": "Damper Trigger",
+      "type": "text"
+    },
+    "digital-hammer": {
+      "value": "Hammer Trigger",
+      "type": "text"
+    },
+    "first-instruction": {
+      "value": "If the position of the hammer trigger is too high (on many keyboards this corresponds to a value of 40 or less), you will need more force to achieve a sound in the forte/fortissimo range.",
+      "type": "text"
+    },
+    "fourth-instruction": {
+      "value": "Many users find a value of 60-65 to be the optimum value for hammer triggering.",
+      "type": "text"
+    },
+    "instruction-footer": {
+      "value": "The settings for the hammer and damper triggers are to be understood as a kind of framework within the limits of which you can adjust the settings to your desired dynamic behavior of the keyboard.",
+      "type": "text"
+    },
+    "instruction-header": {
+      "value": "The trigger values represent the position where the hammer or the damper hit the strings. The sliders represent the downwards movement (Hammer) and upwards movement (Damper) of the key.",
+      "type": "text"
+    },
+    "second-instruction": {
+      "value": "On the other hand, if the position of the hammer release is very low (about 70 or more) you might reach the forte too soon – adjust it back.",
+      "type": "text"
+    },
+    "third-instruction": {
+      "value": "The damper trigger has an effect on the possibility of repeating. If the two values - hammer and damper - are too far apart, the key may have to fall back too far before it can be triggered again. For many instruments, a distance of around 20 has proven to be optimal.",
+      "type": "text"
+    }
+  },
+  "midi-devices": {
+    "bluetooth": {
+      "devices": {
+        "value": "Connect / Disconnect",
+        "type": "text"
+      },
+      "title": {
+        "value": "Bluetooth MIDI Devices",
+        "type": "text"
+      }
+    },
+    "connect-devices": {
+      "value": "Connect Devices",
+      "type": "text"
+    },
+    "input-ports": {
+      "value": "Input Ports",
+      "type": "text"
+    },
+    "output-ports": {
+      "value": "Output Ports",
+      "type": "text"
+    }
+  },
+  "pedals-adjustment": {
+    "digital-pedal": {
+      "value": "Pedal Down Trigger",
+      "type": "text"
+    },
+    "first-instruction": {
+      "value": "The Pedal Up Trigger value cannot be higher than the Pedal Down Trigger value.",
+      "type": "text"
+    },
+    "instruction-header": {
+      "value": "This option allows you to set the switching point of the pedal, i.e. you determine at which position of the mechanical pedal the electronic pedal reacts.",
+      "type": "text"
+    },
+    "minimum-gap-hint": {
+      "value": "Note: The two values must have a minimum distance of {{vm.minimumGap}}.",
+      "type": "text"
+    },
+    "second-instruction": {
+      "value": "The lower the value, the “higher” (in the sense of a higher position) is the corresponding trigger point.",
+      "type": "text"
+    },
+    "third-instruction": {
+      "value": "The adjustment of the trigger points is recommended after each pedal calibration.",
+      "type": "text"
+    }
+  },
+  "studio": {
+    "enable-midi": {
+      "value": "Enable MIDI High Resolution Velocity Prefix (CC 88)",
+      "type": "text"
+    },
+    "high-resolution": {
+      "value": "High Resolution Velocity",
+      "type": "text"
+    },
+    "key-position": {
+      "value": "Key Position Streaming",
+      "type": "text"
+    },
+    "midi-aftertouch": {
+      "value": "MIDI Aftertouch",
+      "type": "text"
+    },
+    "release-velocity": {
+      "value": "Release Velocity",
+      "type": "text"
+    },
+    "send-position": {
+      "value": "Send positions via CC",
+      "type": "text"
+    },
+    "support-vertical-position": {
+      "value": "Support for vertical position on Channel 1 (CC 31 & CC 63)",
+      "type": "text"
+    },
+    "visualize-key": {
+      "value": "Visualize key movements in supporting apps (e.g. doozzoo)",
+      "type": "text"
+    }
+  },
+  "words": {
+    "attention": {
+      "value": "Attention",
+      "type": "text"
+    },
+    "back": {
+      "value": "Back",
+      "type": "text"
+    },
+    "cancel": {
+      "value": "Cancel",
+      "type": "text"
+    },
+    "instructions": {
+      "value": "General Notes",
+      "type": "text"
+    },
+    "no": {
+      "value": "No",
+      "type": "text"
+    },
+    "reset": {
+      "value": "Reset",
+      "type": "text"
+    },
+    "yes": {
+      "value": "Yes",
+      "type": "text"
+    },
+    "okay": {
+      "value": "OK",
+      "type": "text"
+    },
+    "low": {
+      "value": "Low",
+      "type": "text"
+    },
+    "high": {
+      "value": "High",
+      "type": "text"
+    }
+  },
+  "sensor-brightness-control": {
+    "instruction": {
+      "recommended-settings": {
+        "value": "We recommend reducing the brightness of the sensor LEDs to a value of 175. Leave the “Black / White Ratio” at 0.",
+        "type": "text"
+      },
+      "recalibration-needed": {
+        "value": "Recalibration is necessary after each change of the sensor brightness.",
+        "type": "text"
+      },
+      "reduce-brightness-hint": {
+        "value": "If the keyboard cannot be calibrated because notes are triggered directly without pressing a key, first set the brightness value further down in steps of 5.",
+        "type": "text"
+      },
+      "increase-brightness-hint": {
+        "value": "If the keyboard cannot be calibrated even though you press a key, increase the brightness accordingly.",
+        "type": "text"
+      }
+    },
+    "key-sensor-led-brightness": {
+      "value": "Key Sensor LED Brightness",
+      "type": "text"
+    },
+    "black-white-ratio": {
+      "value": "Black / White Ratio",
+      "type": "text"
+    },
+    "recalibration-required": {
+      "value": "Recalibration required",
+      "type": "text"
+    },
+    "calibrate-now": {
+      "value": "Calibrate Now",
+      "type": "text"
+    },
+    "abort-changes": {
+      "value": "Abord changes",
+      "type": "text"
+    },
+    "recalibration-required-description": {
+      "value": "The Key Sensor LED Brightness has been changed. This requires the keys to be recalibrated.",
+      "type": "text"
+    }
+  },
+  "key-detail-adjustment-screen": {
+    "keyboard-sensitivity": {
+      "value": "The sensitivity of the keyboard sensor can be modified using the sensor's brightness control.",
+      "type": "text"
+    },
+    "technician-support": {
+      "value": "These settings should only be changed by a technician or guided by technical support.",
+      "type": "text"
+    },
+    "sensor-brightness-control": {
+      "value": "Sensor Brightness Control",
+      "type": "text"
+    }
+  }
+}
