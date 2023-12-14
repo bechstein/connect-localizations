@@ -423,6 +423,10 @@
     "high": {
       "value": "High",
       "type": "text"
+    },
+    "loading": {
+      "value": "loading…",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {
@@ -481,6 +485,106 @@
     "sensor-brightness-control": {
       "value": "Sensor Brightness Control",
       "type": "text"
+    }
+  },
+  "system-status": {
+    "firmware": {
+      "title": {
+        "value": "Installed Firmware",
+        "type": "text"
+      },
+      "senseboard1": {
+        "value": "Sense Board 1",
+        "type": "text"
+      },
+      "senseboard2": {
+        "value": "Sense Board 2",
+        "type": "text"
+      },
+      "senseboard3": {
+        "value": "Sense Board 3",
+        "type": "text"
+      },
+      "senseboard4": {
+        "value": "Sense Board 4",
+        "type": "text"
+      },
+      "soundmodule": {
+        "value": "Sound Module",
+        "type": "text"
+      },
+      "bluetooth": {
+        "value": "Bluetooth",
+        "type": "text"
+      },
+      "mainboard": {
+        "value": "Main Board",
+        "type": "text"
+      }
+    },
+    "device-info": {
+      "title": {
+        "value": "Device Information",
+        "type": "text"
+      },
+      "app-version": {
+        "value": "App Version",
+        "type": "text"
+      },
+      "os-version": {
+        "value": "OS Version",
+        "type": "text"
+      },
+      "company": {
+        "value": "Company",
+        "type": "text"
+      },
+      "model": {
+        "value": "Model",
+        "type": "text"
+      }
+    },
+    "instrument-info": {
+      "title": {
+        "value": "Instrument Information",
+        "type": "text"
+      },
+      "bluetooth-name": {
+        "value": "Bluetooth Name",
+        "type": "text"
+      },
+      "sensor-brightness": {
+        "value": "Sensor Brightness",
+        "type": "text"
+      },
+      "key-calibration": {
+        "value": "Key Calibration",
+        "type": "text"
+      },
+      "key-adjustment": {
+        "value": "Key Adjustment",
+        "type": "text"
+      },
+      "pedal-calibration": {
+        "value": "Pedal Calibration",
+        "type": "text"
+      },
+      "pedal-adjustment": {
+        "value": "Pedal Adjustment Sustain",
+        "type": "text"
+      }
+    },
+    "dialog": {
+      "reconnect": {
+        "title": {
+          "value": "Reconnect required",
+          "type": "text"
+        },
+        "message": {
+          "value": "Renaming the system requires you to reconnect to your instrument.",
+          "type": "text"
+        }
+      }
     }
   }
 }
