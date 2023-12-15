@@ -105,5 +105,11 @@
 	"sensor-brightness-control.recalibration-required-description": "Die Tastensensor LED Helligkeit wurde geändert. Dies erfordert eine Neukalibrierung der Tasten.",
 	"key-detail-adjustment-screen.keyboard-sensitivity": "Die Empfindlichkeit des Sensorik kann über den Helligkeitsregler des Tastensensors eingestellt werden.",
 	"key-detail-adjustment-screen.technician-support": "Diese Einstellungen sollten nur von einem Techniker oder unter Anleitung des technischen Kundendienstes geändert werden.",
-	"key-detail-adjustment-screen.sensor-brightness-control": "Sensor-Helligkeit einstellen"
+	"key-detail-adjustment-screen.sensor-brightness-control": "Sensor-Helligkeit einstellen",
+	"energy.timespan.10min": "10 minutes",
+	"energy.timespan.20min": "20 minutes",
+	"energy.timespan.30min": "30 minutes",
+	"energy.timespan.1h": "1 hour",
+	"energy.timespan.3h": "3 hours",
+	"energy.timespan.never": "Never"
 }
