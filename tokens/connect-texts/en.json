@@ -493,22 +493,6 @@
         "value": "Installed Firmware",
         "type": "text"
       },
-      "senseboard1": {
-        "value": "Sense Board 1",
-        "type": "text"
-      },
-      "senseboard2": {
-        "value": "Sense Board 2",
-        "type": "text"
-      },
-      "senseboard3": {
-        "value": "Sense Board 3",
-        "type": "text"
-      },
-      "senseboard4": {
-        "value": "Sense Board 4",
-        "type": "text"
-      },
       "soundmodule": {
         "value": "Sound Module",
         "type": "text"
@@ -519,6 +503,10 @@
       },
       "mainboard": {
         "value": "Main Board",
+        "type": "text"
+      },
+      "senseboard": {
+        "value": "Sense Board",
         "type": "text"
       }
     },
@@ -571,6 +559,18 @@
       },
       "pedal-adjustment": {
         "value": "Pedal Adjustment Sustain",
+        "type": "text"
+      },
+      "calibration-complete": {
+        "value": "complete",
+        "type": "text"
+      },
+      "calibration-incomplete": {
+        "value": "incomplete",
+        "type": "text"
+      },
+      "calibration-required": {
+        "value": "required",
         "type": "text"
       }
     },
