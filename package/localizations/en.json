@@ -131,5 +131,11 @@
 	"system-status.instrument-info.pedal-calibration": "Pedal Calibration",
 	"system-status.instrument-info.pedal-adjustment": "Pedal Adjustment Sustain",
 	"system-status.dialog.reconnect.title": "Reconnect required",
-	"system-status.dialog.reconnect.message": "Renaming the system requires you to reconnect to your instrument."
+	"system-status.dialog.reconnect.message": "Renaming the system requires you to reconnect to your instrument.",
+	"energy.timespan.10min": "10 minutes",
+	"energy.timespan.20min": "20 minutes",
+	"energy.timespan.30min": "30 minutes",
+	"energy.timespan.1h": "1 hour",
+	"energy.timespan.3h": "3 hours",
+	"energy.timespan.never": "Never"
 }
