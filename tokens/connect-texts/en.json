@@ -586,5 +586,33 @@
         }
       }
     }
+  },
+  "energy": {
+    "timespan": {
+      "10min": {
+        "value": "10 minutes",
+        "type": "text"
+      },
+      "20min": {
+        "value": "20 minutes",
+        "type": "text"
+      },
+      "30min": {
+        "value": "30 minutes",
+        "type": "text"
+      },
+      "1h": {
+        "value": "1 hour",
+        "type": "text"
+      },
+      "3h": {
+        "value": "3 hours",
+        "type": "text"
+      },
+      "never": {
+        "value": "Never",
+        "type": "text"
+      }
+    }
   }
 }
