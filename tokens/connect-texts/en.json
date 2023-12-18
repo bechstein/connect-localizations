@@ -255,6 +255,10 @@
     "compatibility-error-message": {
       "value": "The instrument you connected seems to have no C. Bechstein Connect. Please connect another instrument.\n\nIf the instrument has a C. Bechstein Connect, please press on “Refresh”.",
       "type": "text"
+    },
+    "connecting": {
+      "value": "connecting…",
+      "type": "text"
     }
   },
   "keys-adjustment": {
@@ -427,6 +431,14 @@
     "loading": {
       "value": "loading…",
       "type": "text"
+    },
+    "later": {
+      "value": "Later",
+      "type": "text"
+    },
+    "now": {
+      "value": "Now",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {
@@ -491,6 +503,22 @@
     "firmware": {
       "title": {
         "value": "Installed Firmware",
+        "type": "text"
+      },
+      "senseboard1": {
+        "value": "Sense Board 1",
+        "type": "text"
+      },
+      "senseboard2": {
+        "value": "Sense Board 2",
+        "type": "text"
+      },
+      "senseboard3": {
+        "value": "Sense Board 3",
+        "type": "text"
+      },
+      "senseboard4": {
+        "value": "Sense Board 4",
         "type": "text"
       },
       "soundmodule": {
@@ -612,6 +640,108 @@
       "never": {
         "value": "Never",
         "type": "text"
+      }
+    }
+  },
+  "firmware": {
+    "information": {
+      "title": {
+        "value": "Information",
+        "type": "text"
+      },
+      "status": {
+        "value": "Status",
+        "type": "text"
+      },
+      "uptodate": {
+        "value": "Up to date",
+        "type": "text"
+      },
+      "update-available": {
+        "value": "Update available",
+        "type": "text"
+      },
+      "inprogress": {
+        "value": "updating…",
+        "type": "text"
+      },
+      "complete": {
+        "value": "Complete",
+        "type": "text"
+      }
+    },
+    "interaction": {
+      "update": {
+        "value": "Update",
+        "type": "text"
+      },
+      "start-update": {
+        "value": "Start update",
+        "type": "text"
+      },
+      "instructions": {
+        "value": "Check Instructions",
+        "type": "text"
+      }
+    },
+    "updates": {
+      "title": {
+        "value": "Available Updates",
+        "type": "text"
+      },
+      "senseboard": {
+        "value": "Sense Boards",
+        "type": "text"
+      },
+      "mainboard": {
+        "value": "Main Board",
+        "type": "text"
+      },
+      "bluetooth": {
+        "value": "Bluetooth",
+        "type": "text"
+      }
+    },
+    "dialog": {
+      "update-available": {
+        "title": {
+          "value": "Update available",
+          "type": "text"
+        },
+        "message": {
+          "value": "A new system firmware version is available. An update is recommended.",
+          "type": "text"
+        }
+      },
+      "update-notice": {
+        "title": {
+          "value": "Notice",
+          "type": "text"
+        },
+        "message": {
+          "value": "To prevent the update from failing, please observe our instructions for updating the VARIO firmware.",
+          "type": "text"
+        }
+      },
+      "success-reconnect": {
+        "title": {
+          "value": "Success",
+          "type": "text"
+        },
+        "message": {
+          "value": "The system will now disconnect automatically. Please reconnect for further updates.",
+          "type": "text"
+        }
+      },
+      "success-final": {
+        "title": {
+          "value": "Success",
+          "type": "text"
+        },
+        "message": {
+          "value": "The system is up to date and you can continue with your play. You will be redirected to the home screen.",
+          "type": "text"
+        }
       }
     }
   }

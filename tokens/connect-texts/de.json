@@ -401,6 +401,14 @@
     "okay": {
       "value": "OK",
       "type": "text"
+    },
+    "later": {
+      "value": "Later",
+      "type": "text"
+    },
+    "now": {
+      "value": "Now",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {
@@ -486,6 +494,88 @@
       "never": {
         "value": "Never",
         "type": "text"
+      }
+    }
+  },
+  "firmware": {
+    "information": {
+      "title": {
+        "value": "Information",
+        "type": "text"
+      },
+      "status": {
+        "value": "Status",
+        "type": "text"
+      },
+      "uptodate": {
+        "value": "Up to date",
+        "type": "text"
+      },
+      "update-available": {
+        "value": "Update available",
+        "type": "text"
+      },
+      "inprogress": {
+        "value": "updating…",
+        "type": "text"
+      },
+      "complete": {
+        "value": "Complete",
+        "type": "text"
+      }
+    },
+    "interaction": {
+      "update": {
+        "value": "Update",
+        "type": "text"
+      },
+      "start-update": {
+        "value": "Start update",
+        "type": "text"
+      },
+      "instructions": {
+        "value": "Check Instructions",
+        "type": "text"
+      }
+    },
+    "updates": {
+      "title": {
+        "value": "Available Updates",
+        "type": "text"
+      },
+      "senseboard": {
+        "value": "Sense Boards",
+        "type": "text"
+      },
+      "mainboard": {
+        "value": "Main Board",
+        "type": "text"
+      },
+      "bluetooth": {
+        "value": "Bluetooth",
+        "type": "text"
+      }
+    },
+    "dialog": {
+      "update-available": {
+        "title": {
+          "value": "Update available",
+          "type": "text"
+        },
+        "message": {
+          "value": "A new system firmware version is available. An update is recommended.",
+          "type": "text"
+        }
+      },
+      "update-notice": {
+        "title": {
+          "value": "Notice",
+          "type": "text"
+        },
+        "message": {
+          "value": "To prevent the update from failing, please observe our instructions for updating the VARIO firmware.",
+          "type": "text"
+        }
       }
     }
   }
