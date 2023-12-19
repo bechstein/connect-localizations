@@ -16,120 +16,15 @@
       "value": "Polyphonic",
       "type": "text"
     },
-    "responsivness-copy": {
-      "value": "Responsivness",
-      "type": "text"
-    }
-  },
-  "calibrate-keys": {
-    "calibrate": {
-      "value": "Anschließend bitte auf \"Speichern\" drücken.",
-      "type": "text"
+    "responsivness": {
+      "value": "Empfindlichkeit",
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
-    "calibrate-pressed-description": {
-      "value": "Spiele nun eine Taste nach der anderen, ohne zusätzlichen Druck auszuüben, um die tiefste Position jeder Taste zu kalibrieren.",
-      "type": "text"
-    },
-    "calibrate-pressed-position": {
-      "value": "Anschließend bitte auf \"Speichern\" drücken.",
-      "type": "text"
-    },
-    "calibrate-pressed-save": {
-      "value": "Speichern",
-      "type": "text"
-    },
-    "calibrate-resting-position": {
-      "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Tastatur. Berühre während dieses Vorgangs keine Tasten.",
-      "type": "text"
-    },
-    "calibrating-rest-position": {
-      "value": "Kalibrierung der Ruheposition…",
-      "type": "text"
-    },
-    "calibration-completed": {
-      "value": "Kalibrierung abgeschlossen",
-      "type": "text"
-    },
-    "calibration-done": {
-      "value": "Tastenkalibrierung abgeschlossen",
-      "type": "text"
-    },
-    "fully-calibrated": {
-      "value": "Deine Tastatur ist nun kalibriert",
-      "type": "text"
-    },
-    "needs-calibration": {
-      "value": "Deine Tastatur muss kalibriert werden",
-      "type": "text"
-    },
-    "no-calibration-needed": {
-      "value": "Keine Kalibrierung erforderlich.",
-      "type": "text"
-    },
-    "recalibrate": {
-      "value": "Neu kalibrieren",
-      "type": "text"
-    },
-    "some-need-calibration": {
-      "value": "Einige deiner Tasten müssen möglicherweise kalibriert werden.",
-      "type": "text"
-    },
-    "start-calibration": {
-      "value": "Kalibrierung starten",
-      "type": "text"
-    },
-    "start-calibration-description": {
-      "value": "Drücke \"Kalibrierung starten\", während sich alle Tasten in der Ruheposition befinden, und warte 2 Sekunden.",
-      "type": "text"
-    },
-    "start-instruction": {
-      "value": "Klicke hier, um die Kalibrierung zu starten.",
-      "type": "text"
-    },
-    "title": {
-      "value": "Tastenkalibrierung",
-      "type": "text"
-    }
-  },
-  "calibrate-pedals": {
-    "calibration-instruction": {
-      "value": "Tritt nun ein Pedal nach dem anderen, um die tiefste Position zu kalibrieren.",
-      "type": "text"
-    },
-    "cancel-calibration": {
-      "value": "Kalibrierung abbrechen?",
-      "type": "text"
-    },
-    "cancel-calibration-description": {
-      "value": "Wenn du die Kalibrierung abbrichst, lädt das System die zuvor gespeicherten Kalibrierungsdaten. Bist du sicher, dass du die Kalibrierung abbrechen möchtest?",
-      "type": "text"
-    },
-    "fully-calibrated": {
-      "value": "Deine Pedale sind kalibriert.",
-      "type": "text"
-    },
-    "need-calibration": {
-      "value": "Deine Pedale müssen kalibriert werden.",
-      "type": "text"
-    },
-    "rest-position-description": {
-      "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Pedale. Berühre während dieses Vorgangs kein Pedal.",
-      "type": "text"
-    },
-    "rest-position-success": {
-      "value": "Ruheposition erfolgreich kalibriert.",
-      "type": "text"
-    },
-    "restart-instrument": {
-      "value": "Du musst dein Gerät neu starten, um die zuvor gespeicherte Konfiguration zu laden.",
-      "type": "text"
-    },
-    "some-need-calibration": {
-      "value": "Einige deiner Pedale müssen möglicherweise kalibriert werden.",
-      "type": "text"
-    },
-    "title": {
-      "value": "Pedalkalibrierung",
+    "responsivness-description": {
+      "value": "Je höher die Empfindlichkeit, desto weniger stark muss die Taste gedrückt werden.",
       "type": "text"
     }
   },
@@ -210,6 +105,10 @@
     },
     "tips-and-advices": {
       "value": "Tipps und Hinweise",
+      "type": "text"
+    },
+    "help-info": {
+      "value": "Hilfe & Informationen",
       "type": "text"
     }
   },
@@ -310,7 +209,7 @@
     }
   },
   "pedals-adjustment": {
-    "digital-pedal": {
+    "pedal-down-trigger": {
       "value": "Pedal auslösen",
       "type": "text"
     },
@@ -332,6 +231,10 @@
     },
     "third-instruction": {
       "value": "Die Einstellung der Schaltpunkte wird nach jeder Kalibrierung der Pedale empfohlen.",
+      "type": "text"
+    },
+    "pedal-up-trigger": {
+      "value": "Pedal loslassen",
       "type": "text"
     }
   },
@@ -409,6 +312,18 @@
     "now": {
       "value": "Now",
       "type": "text"
+    },
+    "low": {
+      "value": "Niedrig",
+      "type": "text"
+    },
+    "high": {
+      "value": "Hoch",
+      "type": "text"
+    },
+    "loading": {
+      "value": "lädt…",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {
@@ -472,27 +387,27 @@
   "energy": {
     "timespan": {
       "10min": {
-        "value": "10 minutes",
+        "value": "10 Minuten",
         "type": "text"
       },
       "20min": {
-        "value": "20 minutes",
+        "value": "20 Minuten",
         "type": "text"
       },
       "30min": {
-        "value": "30 minutes",
+        "value": "30 Minuten",
         "type": "text"
       },
       "1h": {
-        "value": "1 hour",
+        "value": "1 Stunde",
         "type": "text"
       },
       "3h": {
-        "value": "3 hours",
+        "value": "3 Stunden",
         "type": "text"
       },
       "never": {
-        "value": "Never",
+        "value": "Nie",
         "type": "text"
       }
     }
@@ -508,39 +423,39 @@
         "type": "text"
       },
       "uptodate": {
-        "value": "Up to date",
+        "value": "Aktuell",
         "type": "text"
       },
       "update-available": {
-        "value": "Update available",
+        "value": "Update verfügbar",
         "type": "text"
       },
       "inprogress": {
-        "value": "updating…",
+        "value": "aktualisiert...",
         "type": "text"
       },
       "complete": {
-        "value": "Complete",
+        "value": "Abgeschlossen",
         "type": "text"
       }
     },
     "interaction": {
       "update": {
-        "value": "Update",
+        "value": "Aktualisieren",
         "type": "text"
       },
       "start-update": {
-        "value": "Start update",
+        "value": "Update starten",
         "type": "text"
       },
       "instructions": {
-        "value": "Check Instructions",
+        "value": "Anleitung",
         "type": "text"
       }
     },
     "updates": {
       "title": {
-        "value": "Available Updates",
+        "value": "Verfügbare Updates",
         "type": "text"
       },
       "senseboard": {
@@ -559,21 +474,333 @@
     "dialog": {
       "update-available": {
         "title": {
-          "value": "Update available",
+          "value": "Update verfügbar",
           "type": "text"
         },
         "message": {
-          "value": "A new system firmware version is available. An update is recommended.",
+          "value": "Eine neue System-Firmware-Version ist verfügbar. Ein Update wird empfohlen.",
           "type": "text"
         }
       },
       "update-notice": {
         "title": {
-          "value": "Notice",
+          "value": "Hinweis",
           "type": "text"
         },
         "message": {
-          "value": "To prevent the update from failing, please observe our instructions for updating the VARIO firmware.",
+          "value": "Um ein Fehlschlagen des Updates zu vermeiden, beachten Sie bitte unsere Hinweise zum Update der System-Firmware.",
+          "type": "text"
+        }
+      },
+      "success-reconnect": {
+        "title": {
+          "value": "Erfolgreich",
+          "type": "text"
+        },
+        "message": {
+          "value": "Das System trennt nun automatisch die Verbindung. Bitte stelle die Verbindung für weitere Updates wieder her.",
+          "type": "text"
+        }
+      },
+      "success-final": {
+        "title": {
+          "value": "Erfolgreich",
+          "type": "text"
+        },
+        "message": {
+          "value": "Das System ist auf dem neuesten Stand und du kannst mit deinem Spiel fortfahren. Du wirst zum Startbildschirm zurückgeleitet.",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "help-information": {
+    "help-contact": {
+      "title": {
+        "value": "Hilfe & Kontakt",
+        "type": "text"
+      },
+      "faq": {
+        "value": "FAQs",
+        "type": "text"
+      },
+      "send-email": {
+        "value": "E-Mail senden",
+        "type": "text"
+      },
+      "support": {
+        "value": "Support",
+        "type": "text"
+      },
+      "call-expert": {
+        "title": {
+          "value": "Einen Experten anrufen",
+          "type": "text"
+        },
+        "number": {
+          "value": "+800 1853 0000",
+          "type": "text"
+        },
+        "interaction": {
+          "call": {
+            "value": "Jetzt anrufen",
+            "type": "text"
+          }
+        },
+        "description": {
+          "value": "Du erreichst unser Serviceteam montags bis freitags von 14:00 bis 17:00 Uhr (CET).",
+          "type": "text"
+        }
+      }
+    },
+    "information": {
+      "title": {
+        "value": "Informationen",
+        "type": "text"
+      },
+      "imprint": {
+        "title": {
+          "value": "Impressum",
+          "type": "text"
+        },
+        "text": {
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
+          "type": "text"
+        }
+      },
+      "privacy": {
+        "title": {
+          "value": "Datenschutz",
+          "type": "text"
+        },
+        "text": {
+          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Apple gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "calibration": {
+    "message": {
+      "save-call": {
+        "value": "Anschließend bitte auf \"Speichern\" drücken.",
+        "type": "text"
+      },
+      "rest-position-inprogress": {
+        "value": "Kalibrierung der Ruheposition…",
+        "type": "text"
+      },
+      "calibration-completed": {
+        "value": "Kalibrierung abgeschlossen",
+        "type": "text"
+      },
+      "not-needed": {
+        "value": "Keine Kalibrierung erforderlich.",
+        "type": "text"
+      },
+      "start-instruction": {
+        "value": "Klicke hier, um die Kalibrierung zu starten.",
+        "type": "text"
+      },
+      "cancel-calibration-description": {
+        "value": "Wenn du die Kalibrierung abbrichst, lädt das System die zuvor gespeicherten Kalibrierungsdaten. Bist du sicher, dass du die Kalibrierung abbrechen?",
+        "type": "text"
+      },
+      "rest-position-success": {
+        "value": "Ruheposition erfolgreich kalibriert.",
+        "type": "text"
+      }
+    },
+    "keys": {
+      "message": {
+        "key-press-instruction": {
+          "value": "Spiele nun eine Taste nach der anderen, ohne zusätzlichen Druck auszuüben, um die tiefste Position jeder Taste zu kalibrieren.",
+          "type": "text"
+        },
+        "rest-position-instruction": {
+          "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Tastatur. Berühre während dieses Vorgangs keine Tasten.",
+          "type": "text"
+        },
+        "success": {
+          "value": "Tastenkalibrierung abgeschlossen",
+          "type": "text"
+        }
+      },
+      "status": {
+        "calibrated": {
+          "value": "Deine Tastatur ist kalibriert",
+          "type": "text"
+        },
+        "not-calibrated": {
+          "value": "Deine Tastatur muss kalibriert werden",
+          "type": "text"
+        },
+        "partially-calibrated": {
+          "value": "Einige deiner Tasten müssen möglicherweise kalibriert werden.",
+          "type": "text"
+        }
+      }
+    },
+    "interaction": {
+      "save": {
+        "value": "Speichern",
+        "type": "text"
+      },
+      "recalibrate": {
+        "value": "Neu kalibrieren",
+        "type": "text"
+      },
+      "start-calibration": {
+        "value": "Kalibrierung starten",
+        "type": "text"
+      },
+      "cancel-calibration": {
+        "value": "Kalibrierung abbrechen",
+        "type": "text"
+      }
+    },
+    "pedals": {
+      "message": {
+        "success": {
+          "value": "Pedal calibration done",
+          "type": "text"
+        },
+        "pedal-press-instruction": {
+          "value": "Tritt nun ein Pedal nach dem anderen, um die tiefste Position zu kalibrieren.",
+          "type": "text"
+        },
+        "rest-position-instruction": {
+          "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Pedale. Berühre während dieses Vorgangs kein Pedal.",
+          "type": "text"
+        }
+      },
+      "status": {
+        "calibrated": {
+          "value": "Deine Pedale sind kalibriert.",
+          "type": "text"
+        },
+        "not-calibrated": {
+          "value": "Deine Pedale müssen kalibriert werden.",
+          "type": "text"
+        },
+        "partially-calibrated": {
+          "value": "Einige deiner Pedale müssen möglicherweise kalibriert werden.",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "system-status": {
+    "firmware": {
+      "title": {
+        "value": "Installierte Firmware",
+        "type": "text"
+      },
+      "senseboard1": {
+        "value": "Sense Board 1",
+        "type": "text"
+      },
+      "senseboard2": {
+        "value": "Sense Board 2",
+        "type": "text"
+      },
+      "senseboard3": {
+        "value": "Sense Board 3",
+        "type": "text"
+      },
+      "senseboard4": {
+        "value": "Sense Board 4",
+        "type": "text"
+      },
+      "soundmodule": {
+        "value": "Sound Modul",
+        "type": "text"
+      },
+      "bluetooth": {
+        "value": "Bluetooth",
+        "type": "text"
+      },
+      "mainboard": {
+        "value": "Main Board",
+        "type": "text"
+      },
+      "senseboard": {
+        "value": "Sense Board",
+        "type": "text"
+      }
+    },
+    "device-info": {
+      "title": {
+        "value": "Geräteinformation",
+        "type": "text"
+      },
+      "app-version": {
+        "value": "App Version",
+        "type": "text"
+      },
+      "os-version": {
+        "value": "OS Version",
+        "type": "text"
+      },
+      "company": {
+        "value": "Hersteller",
+        "type": "text"
+      },
+      "model": {
+        "value": "Model",
+        "type": "text"
+      }
+    },
+    "instrument-info": {
+      "title": {
+        "value": "Informationen zum Instrument",
+        "type": "text"
+      },
+      "bluetooth-name": {
+        "value": "Bluetooth Name",
+        "type": "text"
+      },
+      "sensor-brightness": {
+        "value": "Sensor-Helligkeit",
+        "type": "text"
+      },
+      "key-calibration": {
+        "value": "Tastenkalibrierung",
+        "type": "text"
+      },
+      "key-adjustment": {
+        "value": "Tastenanpassung",
+        "type": "text"
+      },
+      "pedal-calibration": {
+        "value": "Pedalkalibrierung",
+        "type": "text"
+      },
+      "pedal-adjustment": {
+        "value": "Pedalanspassung Sustain",
+        "type": "text"
+      },
+      "calibration-complete": {
+        "value": "abgeschlossen",
+        "type": "text"
+      },
+      "calibration-incomplete": {
+        "value": "unvollständig",
+        "type": "text"
+      },
+      "calibration-required": {
+        "value": "erforderlich",
+        "type": "text"
+      }
+    },
+    "dialog": {
+      "reconnect": {
+        "title": {
+          "value": "Neuverbindung erforderlich",
+          "type": "text"
+        },
+        "message": {
+          "value": "Nach dem Umbenennen des Systems musst du dich erneut verbinden.",
           "type": "text"
         }
       }

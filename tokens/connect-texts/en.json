@@ -22,7 +22,10 @@
     },
     "responsivness-description": {
       "value": "The higher you set the reactivity, the less forcefully the key has to be pressed.",
-      "type": "text"
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     }
   },
   "calibration": {
@@ -719,7 +722,7 @@
           "type": "text"
         },
         "message": {
-          "value": "To prevent the update from failing, please observe our instructions for updating the VARIO firmware.",
+          "value": "To prevent the update from failing, please observe our instructions for updating the system firmware.",
           "type": "text"
         }
       },
@@ -740,6 +743,72 @@
         },
         "message": {
           "value": "The system is up to date and you can continue with your play. You will be redirected to the home screen.",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "help-information": {
+    "help-contact": {
+      "title": {
+        "value": "Help & Contact",
+        "type": "text"
+      },
+      "faq": {
+        "value": "FAQs",
+        "type": "text"
+      },
+      "send-email": {
+        "value": "Send us an email",
+        "type": "text"
+      },
+      "support": {
+        "value": "Support",
+        "type": "text"
+      },
+      "call-expert": {
+        "title": {
+          "value": "Call an expert",
+          "type": "text"
+        },
+        "number": {
+          "value": "+800 1853 0000",
+          "type": "text"
+        },
+        "interaction": {
+          "call": {
+            "value": "Call now",
+            "type": "text"
+          }
+        },
+        "description": {
+          "value": "You can reach our service team Monday to Friday from 2 p.m. to 5:00 p.m. (CET).",
+          "type": "text"
+        }
+      }
+    },
+    "information": {
+      "title": {
+        "value": "Information",
+        "type": "text"
+      },
+      "imprint": {
+        "title": {
+          "value": "Imprint",
+          "type": "text"
+        },
+        "text": {
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
+          "type": "text"
+        }
+      },
+      "privacy": {
+        "title": {
+          "value": "Privacy Policy",
+          "type": "text"
+        },
+        "text": {
+          "value": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. Apple also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team",
           "type": "text"
         }
       }
