@@ -182,6 +182,10 @@
     "third-instruction": {
       "value": "ie Dämpferauslösung hat Auswirkungen auf die Möglichkeit des Repetierens. Befinden sich beide Werte – Hammer und Dämpfer – zu weit auseinander, muss die Taste u.U. zu weit zurückfallen, um neu auslösen zu können. Bei vielen Instrumenten hat sich ein Abstand von etwa 20 als optimal herausgestellt.",
       "type": "text"
+    },
+    "minimum-gap-hint": {
+      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
+      "type": "text"
     }
   },
   "midi-devices": {
