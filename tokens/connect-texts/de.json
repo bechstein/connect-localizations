@@ -34,7 +34,7 @@
       "type": "text"
     },
     "discovery-failed": {
-      "value": "Verbindung zu {{device}} fehlgeschlagen",
+      "value": "Verbindung zu {{ device }} fehlgeschlagen",
       "type": "text"
     },
     "ok": {
@@ -222,7 +222,7 @@
       "type": "text"
     },
     "minimum-gap-hint": {
-      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von { vm.minimumGap } haben.",
+      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
       "type": "text"
     },
     "second-instruction": {

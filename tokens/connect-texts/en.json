@@ -144,7 +144,7 @@
       "type": "text"
     },
     "discovery-failed": {
-      "value": "Connection to {{device}} failed",
+      "value": "Connection to {{ device }} failed",
       "type": "text"
     },
     "ok": {
@@ -344,7 +344,7 @@
       "type": "text"
     },
     "minimum-gap-hint": {
-      "value": "Note: The two values must have a minimum distance of {{vm.minimumGap}}.",
+      "value": "Note: The two values must have a minimum distance of {{ minimumGap }}.",
       "type": "text"
     },
     "second-instruction": {
