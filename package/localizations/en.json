@@ -66,7 +66,7 @@
 	"keys-adjustment.instruction-header": "The trigger values represent the position where the hammer or the damper hit the strings. The sliders represent the downwards movement (Hammer) and upwards movement (Damper) of the key.",
 	"keys-adjustment.second-instruction": "On the other hand, if the position of the hammer release is very low (about 70 or more) you might reach the forte too soon – adjust it back.",
 	"keys-adjustment.third-instruction": "The damper trigger has an effect on the possibility of repeating. If the two values - hammer and damper - are too far apart, the key may have to fall back too far before it can be triggered again. For many instruments, a distance of around 20 has proven to be optimal.",
-	"keys-adjustment.minimum-gap-hint": "Note: The two values must have a minimum distance of {{vm.minimumGap}}.",
+	"keys-adjustment.minimum-gap-hint": "Note: The two values must have a minimum distance of {{ minimumGap }}.",
 	"midi-devices.bluetooth.devices": "Connect / Disconnect",
 	"midi-devices.bluetooth.title": "Bluetooth MIDI Devices",
 	"midi-devices.connect-devices": "Connect Devices",
