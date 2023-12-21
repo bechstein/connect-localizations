@@ -166,7 +166,7 @@
 	"firmware.dialog.success-reconnect.message": "The system will now disconnect automatically. Please reconnect for further updates.",
 	"firmware.dialog.success-final.title": "Success",
 	"firmware.dialog.success-final.message": "The system is up to date and you can continue with your play. You will be redirected to the home screen.",
-	"help-information.help-contact.title": "Help & Contact",
+	"help-information.help-contact.title": "Help",
 	"help-information.help-contact.faq": "FAQs",
 	"help-information.help-contact.send-email": "Send us an email",
 	"help-information.help-contact.support": "Support",
