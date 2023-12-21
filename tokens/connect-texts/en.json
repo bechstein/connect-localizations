@@ -751,7 +751,7 @@
   "help-information": {
     "help-contact": {
       "title": {
-        "value": "Help & Contact",
+        "value": "Help",
         "type": "text"
       },
       "faq": {
