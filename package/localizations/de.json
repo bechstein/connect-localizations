@@ -128,7 +128,7 @@
 	"help-information.information.imprint.title": "Impressum",
 	"help-information.information.imprint.text": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
 	"help-information.information.privacy.title": "Datenschutz",
-	"help-information.information.privacy.text": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Apple gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
+	"help-information.information.privacy.text": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
 	"calibration.message.save-call": "Anschließend bitte auf \"Speichern\" drücken.",
 	"calibration.message.rest-position-inprogress": "Kalibrierung der Ruheposition…",
 	"calibration.message.calibration-completed": "Kalibrierung abgeschlossen",
