@@ -782,7 +782,7 @@
           }
         },
         "description": {
-          "value": "You can reach our service team Monday to Friday from 2 p.m. to 5:00 p.m. (CET).",
+          "value": "You can reach our service team Monday to Friday from 2 p.m. to 5 p.m. (CET).",
           "type": "text"
         }
       }
@@ -798,7 +798,7 @@
           "type": "text"
         },
         "text": {
-          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelephone: +49 (0)30 2260 559 390\n\nRegistered office of the company: Berlin, Deutschland\n\nCommercial register: Amtsgericht Charlottenburg, HRB 10821 B\n\nVAT ID: DE 242 310 892\n\nCEOs: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nUpdated January 2024",
           "type": "text"
         }
       },
@@ -810,6 +810,12 @@
         "text": {
           "value": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team",
           "type": "text"
+        },
+        "interaction": {
+          "extended-link": {
+            "value": "View Extended Privacy Policy",
+            "type": "text"
+          }
         }
       }
     }

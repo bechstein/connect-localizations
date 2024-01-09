@@ -568,7 +568,7 @@
           "type": "text"
         },
         "text": {
-          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nStand Januar 2024",
           "type": "text"
         }
       },
@@ -580,6 +580,12 @@
         "text": {
           "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
           "type": "text"
+        },
+        "interaction": {
+          "extended-link": {
+            "value": "Erweiterte Datenschutzerklärung",
+            "type": "text"
+          }
         }
       }
     }
