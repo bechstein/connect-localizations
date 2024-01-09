@@ -173,10 +173,11 @@
 	"help-information.help-contact.call-expert.title": "Call an expert",
 	"help-information.help-contact.call-expert.number": "+800 1853 0000",
 	"help-information.help-contact.call-expert.interaction.call": "Call now",
-	"help-information.help-contact.call-expert.description": "You can reach our service team Monday to Friday from 2 p.m. to 5:00 p.m. (CET).",
+	"help-information.help-contact.call-expert.description": "You can reach our service team Monday to Friday from 2 p.m. to 5 p.m. (CET).",
 	"help-information.information.title": "Information",
 	"help-information.information.imprint.title": "Imprint",
-	"help-information.information.imprint.text": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz",
+	"help-information.information.imprint.text": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelephone: +49 (0)30 2260 559 390\n\nRegistered office of the company: Berlin, Deutschland\n\nCommercial register: Amtsgericht Charlottenburg, HRB 10821 B\n\nVAT ID: DE 242 310 892\n\nCEOs: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nUpdated January 2024",
 	"help-information.information.privacy.title": "Privacy Policy",
-	"help-information.information.privacy.text": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team"
+	"help-information.information.privacy.text": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team",
+	"help-information.information.privacy.interaction.extended-link": "View Extended Privacy Policy"
 }
