@@ -26,6 +26,14 @@
       "$extensions": {
         "studio.tokens": {}
       }
+    },
+    "range": {
+      "value": "Range",
+      "type": "text"
+    },
+    "trigger": {
+      "value": "Trigger",
+      "type": "text"
     }
   },
   "calibration": {

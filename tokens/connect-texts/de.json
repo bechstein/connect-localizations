@@ -26,6 +26,14 @@
     "responsivness-description": {
       "value": "Je höher die Empfindlichkeit, desto weniger stark muss die Taste gedrückt werden.",
       "type": "text"
+    },
+    "range": {
+      "value": "Bereich",
+      "type": "text"
+    },
+    "trigger": {
+      "value": "Auslösung",
+      "type": "text"
     }
   },
   "error": {
