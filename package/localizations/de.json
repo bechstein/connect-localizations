@@ -5,6 +5,8 @@
 	"aftertouch.polyphonic": "Polyphonic",
 	"aftertouch.responsivness": "Empfindlichkeit",
 	"aftertouch.responsivness-description": "Je höher die Empfindlichkeit, desto weniger stark muss die Taste gedrückt werden.",
+	"aftertouch.range": "Bereich",
+	"aftertouch.trigger": "Auslösung",
 	"error.cancel": "Refresh",
 	"error.discovery-failed": "Verbindung zu {{ device }} fehlgeschlagen",
 	"error.ok": "Ok",

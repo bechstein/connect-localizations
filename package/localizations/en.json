@@ -5,6 +5,8 @@
 	"aftertouch.polyphonic": "Polyphonic",
 	"aftertouch.responsivness": "Responsivness",
 	"aftertouch.responsivness-description": "The higher you set the reactivity, the less forcefully the key has to be pressed.",
+	"aftertouch.range": "Range",
+	"aftertouch.trigger": "Trigger",
 	"calibration.message.save-call": "Afterwards, please press \"Save\".",
 	"calibration.message.rest-position-inprogress": "Calibrating rest position…",
 	"calibration.message.calibration-completed": "Calibration completed",
