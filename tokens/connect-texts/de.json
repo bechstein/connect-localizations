@@ -563,6 +563,16 @@
           "value": "Du erreichst unser Serviceteam montags bis freitags von 14:00 bis 17:00 Uhr (CET).",
           "type": "text"
         }
+      },
+      "link": {
+        "faq": {
+          "value": "https://service.bechstein-digital.com/de/faq/",
+          "type": "text"
+        },
+        "support": {
+          "value": "https://service.bechstein-digital.com/en/faq/",
+          "type": "text"
+        }
       }
     },
     "information": {
@@ -592,6 +602,12 @@
         "interaction": {
           "extended-link": {
             "value": "Erweiterte Datenschutzerklärung",
+            "type": "text"
+          }
+        },
+        "link": {
+          "extended-privacy": {
+            "value": "https://www.bechstein-digital.com/de/datenschutz/",
             "type": "text"
           }
         }

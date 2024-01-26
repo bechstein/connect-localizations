@@ -793,6 +793,16 @@
           "value": "You can reach our service team Monday to Friday from 2 p.m. to 5 p.m. (CET).",
           "type": "text"
         }
+      },
+      "link": {
+        "faq": {
+          "value": "https://service.bechstein-digital.com/en/faq/",
+          "type": "text"
+        },
+        "support": {
+          "value": "https://service.bechstein-digital.com/en/faq/",
+          "type": "text"
+        }
       }
     },
     "information": {
@@ -822,6 +832,12 @@
         "interaction": {
           "extended-link": {
             "value": "View Extended Privacy Policy",
+            "type": "text"
+          }
+        },
+        "link": {
+          "extended-privacy": {
+            "value": "https://www.bechstein-digital.com/en/privacy/",
             "type": "text"
           }
         }
