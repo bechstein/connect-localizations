@@ -570,7 +570,7 @@
           "type": "text"
         },
         "support": {
-          "value": "https://service.bechstein-digital.com/en/faq/",
+          "value": "https://service.bechstein-digital.com",
           "type": "text"
         }
       }
