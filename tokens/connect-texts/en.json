@@ -270,6 +270,22 @@
     "connecting": {
       "value": "connecting…",
       "type": "text"
+    },
+    "dialog": {
+      "not-connect": {
+        "headline": {
+          "value": "Connect Instrument",
+          "type": "text"
+        },
+        "bodytext": {
+          "value": "Your device is currently not connected to an instrument with C. Bechstein Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
+          "type": "text"
+        },
+        "connect": {
+          "value": "Connect Now",
+          "type": "text"
+        }
+      }
     }
   },
   "keys-adjustment": {

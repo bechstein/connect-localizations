@@ -156,6 +156,22 @@
     "compatibility-error-message": {
       "value": "Das verbundene Instrument scheint keinen C. Bechstein Connect zu haben. Bitte verbinde ein anderes Instrument.\n\nWenn das Instrument ein C. Bechstein Connect hat, drücke bitte auf \"Aktualisieren\".",
       "type": "text"
+    },
+    "dialog": {
+      "not-connect": {
+        "headline": {
+          "value": "Instrument verbinden",
+          "type": "text"
+        },
+        "bodytext": {
+          "value": "Dein Gerät ist derzeit nicht mit einem Instrument mit C. Bechstein Connect verbunden.\n\nBitte verbinde dich über Bluetooth MIDI. Falls vorhanden, kann das Instrument auch über ein USB-Kabel verbunden werden.",
+          "type": "text"
+        },
+        "connect": {
+          "value": "Jetzt verbinden",
+          "type": "text"
+        }
+      }
     }
   },
   "keys-adjustment": {
