@@ -61,7 +61,7 @@
 	"instruments.compatibility-error-message": "The instrument you connected seems to have no C. Bechstein Connect. Please connect another instrument.\n\nIf the instrument has a C. Bechstein Connect, please press on “Refresh”.",
 	"instruments.connecting": "connecting…",
 	"instruments.dialog.not-connect.headline": "Connect Instrument",
-	"instruments.dialog.not-connect.bodytext": "Your device is currently not connected to an instrument with C.\\u00a0Bechstein\\u00a0Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
+	"instruments.dialog.not-connect.bodytext": "Your device is currently not connected to an instrument with C. Bechstein Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
 	"instruments.dialog.not-connect.connect": "Connect Now",
 	"keys-adjustment.digital-damper": "Damper Trigger",
 	"keys-adjustment.digital-hammer": "Hammer Trigger",
