@@ -278,7 +278,7 @@
           "type": "text"
         },
         "bodytext": {
-          "value": "Your device is currently not connected to an instrument with C.\\u00a0Bechstein\\u00a0Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
+          "value": "Your device is currently not connected to an instrument with C. Bechstein Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
           "type": "text"
         },
         "connect": {
