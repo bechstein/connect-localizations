@@ -81,6 +81,7 @@
 	"words.low": "Niedrig",
 	"words.high": "Hoch",
 	"words.loading": "lädt…",
+	"words.not-available": "Nicht verfügbar",
 	"sensor-brightness-control.instruction.recommended-settings": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter belassen Sie zunächst auf 0.",
 	"sensor-brightness-control.instruction.recalibration-needed": "Eine Neukalibrierung ist nach jeder Änderung der Sensorhelligkeit erforderlich.",
 	"sensor-brightness-control.instruction.reduce-brightness-hint": "Lässt sich die Klaviatur nicht Kalibrieren, weil Noten direkt ausgelöst werden, ohne dass Sie eine Taste drücken, setzen Sie den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",

@@ -105,6 +105,7 @@
 	"words.loading": "loading…",
 	"words.later": "Later",
 	"words.now": "Now",
+	"words.not-available": "Not available",
 	"sensor-brightness-control.instruction.recommended-settings": "We recommend reducing the brightness of the sensor LEDs to a value of 175. Leave the “Black / White Ratio” at 0.",
 	"sensor-brightness-control.instruction.recalibration-needed": "Recalibration is necessary after each change of the sensor brightness.",
 	"sensor-brightness-control.instruction.reduce-brightness-hint": "If the keyboard cannot be calibrated because notes are triggered directly without pressing a key, first set the brightness value further down in steps of 5.",
