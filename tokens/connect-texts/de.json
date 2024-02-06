@@ -352,6 +352,10 @@
     "loading": {
       "value": "lädt…",
       "type": "text"
+    },
+    "not-available": {
+      "value": "Nicht verfügbar",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {

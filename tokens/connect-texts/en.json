@@ -466,6 +466,10 @@
     "now": {
       "value": "Now",
       "type": "text"
+    },
+    "not-available": {
+      "value": "Not available",
+      "type": "text"
     }
   },
   "sensor-brightness-control": {
