@@ -182,7 +182,7 @@
 	"system-status.instrument-info.key-calibration": "Tastenkalibrierung",
 	"system-status.instrument-info.key-adjustment": "Tastenanpassung",
 	"system-status.instrument-info.pedal-calibration": "Pedalkalibrierung",
-	"system-status.instrument-info.pedal-adjustment": "Pedalanspassung Sustain",
+	"system-status.instrument-info.pedal-adjustment": "Pedalanpassung Sustain",
 	"system-status.instrument-info.calibration-complete": "abgeschlossen",
 	"system-status.instrument-info.calibration-incomplete": "unvollständig",
 	"system-status.instrument-info.calibration-required": "erforderlich",
