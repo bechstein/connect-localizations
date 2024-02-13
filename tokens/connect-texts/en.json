@@ -284,6 +284,10 @@
         "connect": {
           "value": "Connect Now",
           "type": "text"
+        },
+        "demo": {
+          "value": "Demo Mode",
+          "type": "text"
         }
       }
     }

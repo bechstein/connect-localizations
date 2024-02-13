@@ -170,6 +170,10 @@
         "connect": {
           "value": "Jetzt verbinden",
           "type": "text"
+        },
+        "demo": {
+          "value": "Demo Modus",
+          "type": "text"
         }
       }
     }
