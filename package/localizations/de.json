@@ -27,6 +27,7 @@
 	"home.system-status": "Systemstatus",
 	"home.tips-and-advices": "Tipps und Hinweise",
 	"home.help-info": "Hilfe & Informationen",
+	"home.developer": "Entwicklerfunktionen",
 	"instruments.checking-instrument-connection": "Prüfe Verbindung zum Instrument",
 	"instruments.choose-instrument": "Bitte Instrument auswählen",
 	"instruments.connect-description": "Bitte auf \"Instrument verbinden / trennen\" tippen, um eine Verbindung über Bluetooth-MIDI herzustellen. Falls verfügbar, kann das Instrument auch über ein USB-Kabel verbunden werden.",
@@ -188,5 +189,12 @@
 	"system-status.instrument-info.calibration-incomplete": "unvollständig",
 	"system-status.instrument-info.calibration-required": "erforderlich",
 	"system-status.dialog.reconnect.title": "Neuverbindung erforderlich",
-	"system-status.dialog.reconnect.message": "Nach dem Umbenennen des Systems musst du dich erneut verbinden."
+	"system-status.dialog.reconnect.message": "Nach dem Umbenennen des Systems musst du dich erneut verbinden.",
+	"developer.dialog.enabled.title": "Entwicklermodus",
+	"developer.dialog.enabled.message": "Entwicklermodus aktiv.",
+	"developer.dark-mode": "Dark Mode",
+	"developer.simulate": "Simulation",
+	"developer.demo-instrument": "Demo Instrument",
+	"developer.remote-simulate": "Remote Simulation",
+	"developer.remote-simulator-url": "Remote Simulation URL"
 }

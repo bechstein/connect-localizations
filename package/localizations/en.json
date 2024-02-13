@@ -50,6 +50,7 @@
 	"home.system-status": "System Status",
 	"home.tips-and-advices": "Tips and Advice",
 	"home.help-info": "Help & Information",
+	"home.developer": "Developer Features",
 	"instruments.checking-instrument-connection": "Checking instrument connection",
 	"instruments.choose-instrument": "Please choose your instrument",
 	"instruments.connect-description": "Please tap on “Connect / Disconnect Instrument” to connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
@@ -189,5 +190,12 @@
 	"help-information.information.privacy.title": "Privacy Policy",
 	"help-information.information.privacy.text": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team\n\nUpdate: December 2023",
 	"help-information.information.privacy.interaction.extended-link": "View Extended Privacy Policy",
-	"help-information.information.privacy.link.extended-privacy": "https://www.bechstein-digital.com/en/privacy/"
+	"help-information.information.privacy.link.extended-privacy": "https://www.bechstein-digital.com/en/privacy/",
+	"developer.dialog.enabled.title": "Developer Mode",
+	"developer.dialog.enabled.message": "Developer Mode active.",
+	"developer.dark-mode": "Dark Mode",
+	"developer.simulate": "Simulation",
+	"developer.demo-instrument": "Demo Instrument",
+	"developer.remote-simulate": "Remote Simulation",
+	"developer.remote-simulator-url": "Remote Simulation URL"
 }
