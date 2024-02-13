@@ -63,6 +63,7 @@
 	"instruments.dialog.not-connect.headline": "Connect Instrument",
 	"instruments.dialog.not-connect.bodytext": "Your device is currently not connected to an instrument with C. Bechstein Connect.\n\nPlease connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
 	"instruments.dialog.not-connect.connect": "Connect Now",
+	"instruments.dialog.not-connect.demo": "Demo Mode",
 	"keys-adjustment.digital-damper": "Damper Trigger",
 	"keys-adjustment.digital-hammer": "Hammer Trigger",
 	"keys-adjustment.first-instruction": "If the position of the hammer trigger is too high (on many keyboards this corresponds to a value of 40 or less), you will need more force to achieve a sound in the forte/fortissimo range.",

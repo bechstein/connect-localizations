@@ -39,6 +39,7 @@
 	"instruments.dialog.not-connect.headline": "Instrument verbinden",
 	"instruments.dialog.not-connect.bodytext": "Dein Gerät ist derzeit nicht mit einem Instrument mit C. Bechstein Connect verbunden.\n\nBitte verbinde dich über Bluetooth MIDI. Falls vorhanden, kann das Instrument auch über ein USB-Kabel verbunden werden.",
 	"instruments.dialog.not-connect.connect": "Jetzt verbinden",
+	"instruments.dialog.not-connect.demo": "Demo Modus",
 	"keys-adjustment.digital-damper": "Dämpferauslösung",
 	"keys-adjustment.digital-hammer": "Hammerauslösung",
 	"keys-adjustment.first-instruction": "Liegt die Position der Hammerauslösung zu weit oben (bei vielen Tastaturen entspricht dies einem Wert von 40 oder weniger), benötigst du mehr Kraft, um ein klangliches Ergebnis im Forte/Fortissimo-Bereich zu erzielen.",
