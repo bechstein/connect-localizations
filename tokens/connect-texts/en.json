@@ -228,6 +228,10 @@
     "help-info": {
       "value": "Help & Information",
       "type": "text"
+    },
+    "developer": {
+      "value": "Developer Features",
+      "type": "text"
     }
   },
   "instruments": {
@@ -866,6 +870,40 @@
           }
         }
       }
+    }
+  },
+  "developer": {
+    "dialog": {
+      "enabled": {
+        "title": {
+          "value": "Developer Mode",
+          "type": "text"
+        },
+        "message": {
+          "value": "Developer Mode active.",
+          "type": "text"
+        }
+      }
+    },
+    "dark-mode": {
+      "value": "Dark Mode",
+      "type": "text"
+    },
+    "simulate": {
+      "value": "Simulation",
+      "type": "text"
+    },
+    "demo-instrument": {
+      "value": "Demo Instrument",
+      "type": "text"
+    },
+    "remote-simulate": {
+      "value": "Remote Simulation",
+      "type": "text"
+    },
+    "remote-simulator-url": {
+      "value": "Remote Simulation URL",
+      "type": "text"
     }
   }
 }
