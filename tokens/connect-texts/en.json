@@ -724,6 +724,10 @@
       "instructions": {
         "value": "Check Instructions",
         "type": "text"
+      },
+      "instruction-link": {
+        "value": "https://service.bechstein-digital.com/en/how-to/updating-the-vario-firmware/",
+        "type": "text"
       }
     },
     "updates": {

@@ -515,6 +515,10 @@
       "instructions": {
         "value": "Anleitung",
         "type": "text"
+      },
+      "instruction-link": {
+        "value": "https://service.bechstein-digital.com/de/vario-anleitungen/aktualisierung-der-vario-firmware/",
+        "type": "text"
       }
     },
     "updates": {
