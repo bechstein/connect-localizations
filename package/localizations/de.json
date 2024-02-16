@@ -115,7 +115,7 @@
 	"firmware.interaction.instruction-link": "https://service.bechstein-digital.com/de/vario-anleitungen/aktualisierung-der-vario-firmware/",
 	"firmware.updates.title": "Verfügbare Updates",
 	"firmware.updates.senseboard": "Sense Boards",
-	"firmware.updates.mainboard": "Main Board",
+	"firmware.updates.mainboard": "Mainboard",
 	"firmware.updates.bluetooth": "Bluetooth",
 	"firmware.dialog.update-available.title": "Update verfügbar",
 	"firmware.dialog.update-available.message": "Eine neue System-Firmware-Version ist verfügbar. Ein Update wird empfohlen.",
