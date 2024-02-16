@@ -191,6 +191,8 @@
 	"help-information.information.privacy.text": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team\n\nUpdate: December 2023",
 	"help-information.information.privacy.interaction.extended-link": "View Extended Privacy Policy",
 	"help-information.information.privacy.link.extended-privacy": "https://www.bechstein-digital.com/en/privacy/",
+	"help-information.feedback.email.subject": "Connect App Feedback",
+	"help-information.feedback.email.body": "Compliments, criticism or suggestions for an upcoming version? We look forward to your feedback on the Connect App and - if you like - the dialogue with you. Please write us here:\n\n\n\n->\n\n\n\nWould you like to receive feedback from us?\n\nYES\n\nNO\n\n(please delete if not applicable)\n\n\n\nPrivacy notice:\n\nYou address this e-mail to the employees of C. Bechstein Digital GmbH. The registered office of the company is in Berlin. Depending on your email settings, transmission may be unencrypted - please do not send us any private-sensitive information.\n\nYour personal data (e.g. name and email address) will be deleted by us immediately following our communication.",
 	"developer.dialog.enabled.title": "Developer Mode",
 	"developer.dialog.enabled.message": "Developer Mode active.",
 	"developer.dark-mode": "Dark Mode",
