@@ -147,6 +147,7 @@
 	"system-status.instrument-info.calibration-required": "required",
 	"system-status.dialog.reconnect.title": "Reconnect required",
 	"system-status.dialog.reconnect.message": "Renaming the system requires you to reconnect to your instrument.",
+	"system-status.mail.subject": "System Status - Connect App",
 	"energy.timespan.10min": "10 minutes",
 	"energy.timespan.20min": "20 minutes",
 	"energy.timespan.30min": "30 minutes",
