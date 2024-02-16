@@ -531,7 +531,7 @@
         "type": "text"
       },
       "mainboard": {
-        "value": "Main Board",
+        "value": "Mainboard",
         "type": "text"
       },
       "bluetooth": {
