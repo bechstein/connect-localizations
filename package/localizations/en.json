@@ -162,6 +162,7 @@
 	"firmware.interaction.update": "Update",
 	"firmware.interaction.start-update": "Start update",
 	"firmware.interaction.instructions": "Check Instructions",
+	"firmware.interaction.instruction-link": "https://service.bechstein-digital.com/en/how-to/updating-the-vario-firmware/",
 	"firmware.updates.title": "Available Updates",
 	"firmware.updates.senseboard": "Sense Boards",
 	"firmware.updates.mainboard": "Mainboard",
