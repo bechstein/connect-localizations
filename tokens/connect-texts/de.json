@@ -617,14 +617,6 @@
           "$extensions": {
             "studio.tokens": {}
           }
-        },
-        "germany": {
-          "value": "Germany",
-          "type": "text"
-        },
-        "international": {
-          "value": "International",
-          "type": "text"
         }
       },
       "link": {
@@ -675,6 +667,21 @@
           "extended-privacy": {
             "value": "https://www.bechstein-digital.com/de/datenschutz/",
             "type": "text"
+          }
+        }
+      }
+    },
+    "feedback": {
+      "email": {
+        "subject": {
+          "value": "Feedback zur Connect App",
+          "type": "text"
+        },
+        "body": {
+          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf Ihre Kommentare zur Connect-App und, wenn Sie möchten, auf den Dialog mit Ihnen. Bitte schreiben Sie uns hier:\n\n\n\n->\n\n\n\nWünschen Sie eine Antwort von uns?\n\nJA\n\nNEIN\n\n(nicht zutreffendes bitte streichen)\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
+          "type": "text",
+          "$extensions": {
+            "studio.tokens": {}
           }
         }
       }
