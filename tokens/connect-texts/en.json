@@ -655,6 +655,12 @@
           "type": "text"
         }
       }
+    },
+    "mail": {
+      "subject": {
+        "value": "System Status - Connect App",
+        "type": "text"
+      }
     }
   },
   "energy": {
