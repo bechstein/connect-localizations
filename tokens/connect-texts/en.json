@@ -569,8 +569,11 @@
         "type": "text"
       },
       "mainboard": {
-        "value": "Main Board",
-        "type": "text"
+        "value": "Mainboard",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "senseboard": {
         "value": "Sense Board",
@@ -733,8 +736,11 @@
         "type": "text"
       },
       "mainboard": {
-        "value": "Main Board",
-        "type": "text"
+        "value": "Mainboard",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "bluetooth": {
         "value": "Bluetooth",

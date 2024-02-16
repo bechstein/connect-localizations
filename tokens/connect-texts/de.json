@@ -212,8 +212,11 @@
       "type": "text"
     },
     "third-instruction": {
-      "value": "ie Dämpferauslösung hat Auswirkungen auf die Möglichkeit des Repetierens. Befinden sich beide Werte – Hammer und Dämpfer – zu weit auseinander, muss die Taste u.U. zu weit zurückfallen, um neu auslösen zu können. Bei vielen Instrumenten hat sich ein Abstand von etwa 20 als optimal herausgestellt.",
-      "type": "text"
+      "value": "Die Dämpferauslösung hat Auswirkungen auf die Möglichkeit des Repetierens. Befinden sich beide Werte – Hammer und Dämpfer – zu weit auseinander, muss die Taste u.U. zu weit zurückfallen, um neu auslösen zu können. Bei vielen Instrumenten hat sich ein Abstand von etwa 20 als optimal herausgestellt.",
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
     "minimum-gap-hint": {
       "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
@@ -263,7 +266,10 @@
     },
     "second-instruction": {
       "value": "Je niedriger der Wert, desto \"höher\" (im Sinne einer höheren Position) ist der entsprechende Schaltpunkt.",
-      "type": "text"
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
     "third-instruction": {
       "value": "Die Einstellung der Schaltpunkte wird nach jeder Kalibrierung der Pedale empfohlen.",
@@ -370,19 +376,31 @@
     "instruction": {
       "recommended-settings": {
         "value": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter belassen Sie zunächst auf 0.",
-        "type": "text"
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "recalibration-needed": {
         "value": "Eine Neukalibrierung ist nach jeder Änderung der Sensorhelligkeit erforderlich.",
-        "type": "text"
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "reduce-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht Kalibrieren, weil Noten direkt ausgelöst werden, ohne dass Sie eine Taste drücken, setzen Sie den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
-        "type": "text"
+        "value": "Lässt sich die Klaviatur nicht Kalibrieren, weil Noten direkt ausgelöst werden, ohne dass du eine Taste drücken, setze den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "increase-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht Kalibrieren, obwohl Sie eine Taste drücken, setzen Sie den Helligkeitswert wieder herauf.",
-        "type": "text"
+        "value": "Lässt sich die Klaviatur nicht Kalibrieren, obwohl du eine Taste drückst, setze den Helligkeitswert wieder herauf.",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       }
     },
     "key-sensor-led-brightness": {
@@ -417,11 +435,17 @@
     },
     "technician-support": {
       "value": "Diese Einstellungen sollten nur von einem Techniker oder unter Anleitung des technischen Kundendienstes geändert werden.",
-      "type": "text"
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
     "sensor-brightness-control": {
-      "value": "Sensor-Helligkeit einstellen",
-      "type": "text"
+      "value": "Sensorik-Helligkeit einstellen",
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     }
   },
   "energy": {
@@ -588,7 +612,18 @@
           }
         },
         "description": {
-          "value": "Du erreichst unser Serviceteam montags bis freitags von 14:00 bis 17:00 Uhr (CET).",
+          "value": "Du erreichst unser Serviceteam von Montag bis Freitag von 14:00 bis 17:00 Uhr (CET) unter der unten angegeben Rufnummer.",
+          "type": "text",
+          "$extensions": {
+            "studio.tokens": {}
+          }
+        },
+        "germany": {
+          "value": "Germany",
+          "type": "text"
+        },
+        "international": {
+          "value": "International",
           "type": "text"
         }
       },
@@ -625,7 +660,10 @@
         },
         "text": {
           "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
-          "type": "text"
+          "type": "text",
+          "$extensions": {
+            "studio.tokens": {}
+          }
         },
         "interaction": {
           "extended-link": {
@@ -775,16 +813,22 @@
         "type": "text"
       },
       "soundmodule": {
-        "value": "Sound Modul",
-        "type": "text"
+        "value": "Soundmodul",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "bluetooth": {
         "value": "Bluetooth",
         "type": "text"
       },
       "mainboard": {
-        "value": "Main Board",
-        "type": "text"
+        "value": "Mainboard",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "senseboard": {
         "value": "Sense Board",
@@ -823,8 +867,11 @@
         "type": "text"
       },
       "sensor-brightness": {
-        "value": "Sensor-Helligkeit",
-        "type": "text"
+        "value": "Sensorik-Helligkeit",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
       "key-calibration": {
         "value": "Tastenkalibrierung",
