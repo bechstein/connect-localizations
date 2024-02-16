@@ -888,7 +888,7 @@
           "type": "text"
         },
         "body": {
-          "value": "Compliments, criticism or suggestions for an upcoming version? We look forward to your feedback on the Connect App and - if you like - the dialogue with you. Please write us here:\n\n\n\n->\n\n\n\nWould you like to receive feedback from us?\n\nYES\n\nNO\n\n(please delete if not applicable)\n\n\n\nPrivacy notice:\n\nYou address this e-mail to the employees of C. Bechstein Digital GmbH. The registered office of the company is in Berlin. Depending on your email settings, transmission may be unencrypted - please do not send us any private-sensitive information.\n\nYour personal data (e.g. name and email address) will be deleted by us immediately following our communication.",
+          "value": "Compliments, criticism or suggestions for an upcoming version? We look forward to your feedback. Please write us here:\n\n\n\n\n\nPrivacy notice:\n\nYou address this e-mail to the employees of C. Bechstein Digital GmbH. The registered office of the company is in Berlin. Depending on your email settings, transmission may be unencrypted - please do not send us any private-sensitive information.\n\nYour personal data (e.g. name and email address) will be deleted by us immediately following our communication.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}

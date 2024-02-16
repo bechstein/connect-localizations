@@ -375,28 +375,28 @@
   "sensor-brightness-control": {
     "instruction": {
       "recommended-settings": {
-        "value": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter belassen Sie zunächst auf 0.",
+        "value": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter zunächst auf 0 belassen.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "recalibration-needed": {
-        "value": "Eine Neukalibrierung ist nach jeder Änderung der Sensorhelligkeit erforderlich.",
+        "value": "Eine Neukalibrierung ist nach jeder Änderung der Sensorik-Helligkeit erforderlich.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "reduce-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht Kalibrieren, weil Noten direkt ausgelöst werden, ohne dass du eine Taste drücken, setze den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
+        "value": "Lässt sich die Klaviatur nicht kalibrieren, weil Noten direkt ausgelöst werden, ohne dass du eine Taste drücken, setze den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "increase-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht Kalibrieren, obwohl du eine Taste drückst, setze den Helligkeitswert wieder herauf.",
+        "value": "Lässt sich die Klaviatur nicht kalibrieren, obwohl du eine Taste drückst, setze den Helligkeitswert wieder herauf.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
@@ -682,7 +682,7 @@
           "type": "text"
         },
         "body": {
-          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf Ihre Kommentare zur Connect-App und, wenn Sie möchten, auf den Dialog mit Ihnen. Bitte schreiben Sie uns hier:\n\n\n\n->\n\n\n\nWünschen Sie eine Antwort von uns?\n\nJA\n\nNEIN\n\n(nicht zutreffendes bitte streichen)\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
+          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect-App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
