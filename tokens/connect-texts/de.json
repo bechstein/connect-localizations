@@ -76,7 +76,7 @@
       "type": "text"
     },
     "keys-adjustment": {
-      "value": "Tastaturanpassung",
+      "value": "Tastenanpassung",
       "type": "text"
     },
     "keys-calibration": {
@@ -87,12 +87,12 @@
       "value": "MIDI-Verbindung",
       "type": "text"
     },
-    "pedals-adjustment": {
-      "value": "Pedalanpassung",
-      "type": "text"
-    },
     "pedals-calibration": {
       "value": "Pedalkalibrierung",
+      "type": "text"
+    },
+    "pedals-adjustment": {
+      "value": "Pedalanpassung",
       "type": "text"
     },
     "sensor-brightness": {
@@ -154,11 +154,7 @@
       "type": "text"
     },
     "compatibility-error-title": {
-      "value": "Kompatibilitätsfehler",
-      "type": "text"
-    },
-    "compatibility-error-message": {
-      "value": "Das verbundene Instrument scheint keinen C. Bechstein Connect zu haben. Bitte verbinde ein anderes Instrument.\n\nWenn das Instrument ein C. Bechstein Connect hat, drücke bitte auf \"Aktualisieren\".",
+      "value": "Nicht unterstütztes Instrument",
       "type": "text"
     },
     "dialog": {
@@ -180,7 +176,15 @@
           "type": "text"
         }
       }
+    },
+    "compatibility-error-message": {
+      "value": "Das verbundene Instrument scheint kein C. Bechstein Connect zu haben.",
+      "type": "text"
     }
+  },
+  "": {
+    "value": "Das verbundene Instrument scheint kein C. Bechstein Connect zu haben.",
+    "type": "text"
   },
   "keys-adjustment": {
     "digital-damper": {
@@ -714,7 +718,7 @@
         "type": "text"
       },
       "cancel-calibration-description": {
-        "value": "Wenn du die Kalibrierung abbrichst, lädt das System die zuvor gespeicherten Kalibrierungsdaten. Bist du sicher, dass du die Kalibrierung abbrechen?",
+        "value": "Wenn du die Kalibrierung abbrichst, lädt das System die zuvor gespeicherten Kalibrierungsdaten. Bist du sicher, dass du die Kalibrierung abbrechen möchtest?",
         "type": "text"
       },
       "rest-position-success": {
@@ -739,11 +743,11 @@
       },
       "status": {
         "calibrated": {
-          "value": "Deine Tastatur ist kalibriert",
+          "value": "Deine Tastatur ist kalibriert.",
           "type": "text"
         },
         "not-calibrated": {
-          "value": "Deine Tastatur muss kalibriert werden",
+          "value": "Deine Tastatur muss kalibriert werden.",
           "type": "text"
         },
         "partially-calibrated": {
