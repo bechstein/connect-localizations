@@ -223,8 +223,11 @@
       }
     },
     "minimum-gap-hint": {
-      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
-      "type": "text"
+      "value": "Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     }
   },
   "midi-devices": {
@@ -434,8 +437,11 @@
   },
   "key-detail-adjustment-screen": {
     "keyboard-sensitivity": {
-      "value": "Die Empfindlichkeit des Sensorik kann über den Helligkeitsregler des Tastensensors eingestellt werden.",
-      "type": "text"
+      "value": "Die Empfindlichkeit der Sensorik kann über den Helligkeitsregler des Tastensensors eingestellt werden.",
+      "type": "text",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
     "technician-support": {
       "value": "Diese Einstellungen sollten nur von einem Techniker oder unter Anleitung des technischen Kundendienstes geändert werden.",
@@ -560,8 +566,11 @@
           "type": "text"
         },
         "message": {
-          "value": "Um ein Fehlschlagen des Updates zu vermeiden, beachten Sie bitte unsere Hinweise zum Update der System-Firmware.",
-          "type": "text"
+          "value": "Um ein Fehlschlagen des Updates zu vermeiden, beachte bitte unsere Hinweise zum Update der System-Firmware.",
+          "type": "text",
+          "$extensions": {
+            "studio.tokens": {}
+          }
         }
       },
       "success-reconnect": {
