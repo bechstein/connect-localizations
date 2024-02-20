@@ -733,7 +733,7 @@
           "type": "text"
         },
         "rest-position-instruction": {
-          "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Tastatur. Berühre während dieses Vorgangs keine Tasten.",
+          "value": "Das System beginnt nun mit der Kalibrierung der Ruheposition der Tasten. Berühre während dieses Vorgangs keine Taste.",
           "type": "text"
         },
         "success": {
@@ -743,11 +743,11 @@
       },
       "status": {
         "calibrated": {
-          "value": "Deine Tastatur ist kalibriert.",
+          "value": "Deine Tasten sind kalibriert.",
           "type": "text"
         },
         "not-calibrated": {
-          "value": "Deine Tastatur muss kalibriert werden.",
+          "value": "Deine Tasten müssen kalibriert werden.",
           "type": "text"
         },
         "partially-calibrated": {
@@ -777,7 +777,7 @@
     "pedals": {
       "message": {
         "success": {
-          "value": "Pedal calibration done",
+          "value": "Pedalkalibrierung abgeschlossen.",
           "type": "text"
         },
         "pedal-press-instruction": {
