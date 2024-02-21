@@ -56,6 +56,16 @@
     "title": {
       "value": "An error occurred",
       "type": "text"
+    },
+    "general": {
+      "title": {
+        "value": "Etwas ist schiefgelaufen",
+        "type": "text"
+      },
+      "bodytext": {
+        "value": "Es ist ein unerwartetes Problem aufgetreten. Bitte versuche es erneut.",
+        "type": "text"
+      }
     }
   },
   "home": {
