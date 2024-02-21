@@ -12,6 +12,8 @@
 	"error.ok": "Ok",
 	"error.retry": "Retry",
 	"error.title": "An error occurred",
+	"error.general.title": "Etwas ist schiefgelaufen",
+	"error.general.bodytext": "Es ist ein unerwartetes Problem aufgetreten. Bitte versuche es erneut.",
 	"home.auto-standby": "Auto-Power-Off",
 	"home.connect-instrument": "Verbindungen verwalten",
 	"home.firmware": "Firmware",

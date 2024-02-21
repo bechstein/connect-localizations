@@ -35,6 +35,8 @@
 	"error.ok": "Ok",
 	"error.retry": "Retry",
 	"error.title": "An error occurred",
+	"error.general.title": "Something Went Wrong",
+	"error.general.bodytext": "We encountered an unexpected issue. Please try again.",
 	"home.auto-standby": "Auto Power Off",
 	"home.connect-instrument": "Manage Connections",
 	"home.firmware": "Firmware",
