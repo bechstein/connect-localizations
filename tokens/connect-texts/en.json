@@ -1,7 +1,7 @@
 {
   "aftertouch": {
     "cc-monophonic": {
-      "value": "CC (Modulation Wheel)",
+      "value": "CC 1 (Modwheel)",
       "type": "text"
     },
     "monophonic": {
@@ -830,7 +830,7 @@
       },
       "call-expert": {
         "title": {
-          "value": "Call an expert",
+          "value": "Call our service team",
           "type": "text"
         },
         "number": {

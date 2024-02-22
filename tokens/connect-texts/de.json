@@ -1,7 +1,7 @@
 {
   "aftertouch": {
     "cc-monophonic": {
-      "value": "CC (Modulationsrad)",
+      "value": "CC 1 (Modwheel)",
       "type": "text"
     },
     "monophonic": {
@@ -299,7 +299,7 @@
   },
   "studio": {
     "enable-midi": {
-      "value": "Aktiviere MIDI High Resolution Velocity Prefix (CC 88)",
+      "value": "Sende MIDI High Resolution Velocity Prefix (CC 88)",
       "type": "text"
     },
     "high-resolution": {
@@ -625,7 +625,7 @@
       },
       "call-expert": {
         "title": {
-          "value": "Einen Experten anrufen",
+          "value": "Serviceteam anrufen",
           "type": "text"
         },
         "number": {
