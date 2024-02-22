@@ -1,5 +1,5 @@
 {
-	"aftertouch.cc-monophonic": "CC (Modulation Wheel)",
+	"aftertouch.cc-monophonic": "CC 1 (Modwheel)",
 	"aftertouch.monophonic": "Monophonic",
 	"aftertouch.off": "Off",
 	"aftertouch.polyphonic": "Polyphonic",
@@ -182,7 +182,7 @@
 	"help-information.help-contact.faq": "FAQs",
 	"help-information.help-contact.send-email": "Send us an email",
 	"help-information.help-contact.support": "Support",
-	"help-information.help-contact.call-expert.title": "Call an expert",
+	"help-information.help-contact.call-expert.title": "Call our service team",
 	"help-information.help-contact.call-expert.number": "+800 1853 0000",
 	"help-information.help-contact.call-expert.interaction.call": "Call now",
 	"help-information.help-contact.call-expert.description": "You can reach our service team Monday to Friday from 2 p.m. to 5 p.m. (CET).",
