@@ -70,7 +70,7 @@
   },
   "home": {
     "auto-standby": {
-      "value": "Auto-Power-Off",
+      "value": "Auto-Standby",
       "type": "text"
     },
     "connect-instrument": {
@@ -218,7 +218,7 @@
       "type": "text"
     },
     "instruction-header": {
-      "value": "Die Auslösewerte stellen die Position dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
+      "value": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
       "type": "text"
     },
     "second-instruction": {
@@ -270,7 +270,7 @@
       "type": "text"
     },
     "first-instruction": {
-      "value": "Der Wert Pedal Up Trigger (unten) kann nicht höher sein als der Triggerpunkt oben, genau wie beim akustischen Modell.",
+      "value": "Der Wert \"Pedal loslassen\" kann nicht größer sein als der Wert \"Pedal auslösen\".",
       "type": "text"
     },
     "instruction-header": {
@@ -278,11 +278,11 @@
       "type": "text"
     },
     "minimum-gap-hint": {
-      "value": "Hinweis: Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
+      "value": "Die beiden Werte müssen einen Mindestabstand von {{ minimumGap }} haben.",
       "type": "text"
     },
     "second-instruction": {
-      "value": "Je niedriger der Wert, desto \"höher\" (im Sinne einer höheren Position) ist der entsprechende Schaltpunkt.",
+      "value": "Je kleiner der Wert, desto \"höher\" (im Sinne einer höheren Position) ist der entsprechende Schaltpunkt.",
       "type": "text",
       "$extensions": {
         "studio.tokens": {}
@@ -385,35 +385,35 @@
       "type": "text"
     },
     "not-available": {
-      "value": "Nicht verfügbar",
+      "value": "nicht verfügbar",
       "type": "text"
     }
   },
   "sensor-brightness-control": {
     "instruction": {
       "recommended-settings": {
-        "value": "Wir empfehlen, die möglicherweise noch werkseitig eingestellte Helligkeit (200) der Sensorik LEDs auf einen Wert von 175 zu reduzieren. Den Verhältnis genannten Parameter zunächst auf 0 belassen.",
+        "value": "Die Sensorik arbeitet mit einer optischen Abstastung der Tastenbewegungen. Dabei senden unter der Klaviatur angebrachte LEDs gebündeltes Licht gegen die Unterseite der Tasten. Von dort wird das Licht reflektiert, von Sensoren gemessen und in ein digitales Signal übersetzt.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "recalibration-needed": {
-        "value": "Eine Neukalibrierung ist nach jeder Änderung der Sensorik-Helligkeit erforderlich.",
+        "value": "Nach jeder Änderung  der Sensorik-Helligkeit ist eine Neukalibrierung der Tasten erforderlich.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "reduce-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht kalibrieren, weil Noten direkt ausgelöst werden, ohne dass du eine Taste drücken, setze den Helligkeitswert zunächst in 5er-Schritten weiter herunter.",
+        "value": "Lassen sich die Tasten nicht kalibrieren, weil Noten direkt ausgelöst werden, ohne dass du eine Taste drückst, setze den Helligkeitswert in 5er-Schritten herunter.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
         }
       },
       "increase-brightness-hint": {
-        "value": "Lässt sich die Klaviatur nicht kalibrieren, obwohl du eine Taste drückst, setze den Helligkeitswert wieder herauf.",
+        "value": "Lassen sich Tasten nicht kalibrieren, obwohl du sie drückst, setze den Helligkeitswert wieder herauf.",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
@@ -421,11 +421,11 @@
       }
     },
     "key-sensor-led-brightness": {
-      "value": "Tastensensor LED Helligkeit",
+      "value": "Sensorik LED Helligkeit",
       "type": "text"
     },
     "black-white-ratio": {
-      "value": "Schwarz / Weiße Tasten Verhältnis",
+      "value": "Schwarze / Weiße Tasten Verhältnis",
       "type": "text"
     },
     "recalibration-required": {
@@ -441,20 +441,20 @@
       "type": "text"
     },
     "recalibration-required-description": {
-      "value": "Die Tastensensor LED Helligkeit wurde geändert. Dies erfordert eine Neukalibrierung der Tasten.",
+      "value": "Die Sensorik-Helligkeit wurde geändert. Dies erfordert eine Neukalibrierung der Tasten.",
       "type": "text"
     }
   },
   "key-detail-adjustment-screen": {
     "keyboard-sensitivity": {
-      "value": "Die Empfindlichkeit der Sensorik kann über den Helligkeitsregler des Tastensensors eingestellt werden.",
+      "value": "Die Empfindlichkeit der Tastensensorik kann über den Helligkeitsregler der Sensorik LEDs eingestellt werden.",
       "type": "text",
       "$extensions": {
         "studio.tokens": {}
       }
     },
     "technician-support": {
-      "value": "Diese Einstellungen sollten nur von einem Techniker oder unter Anleitung des technischen Kundendienstes geändert werden.",
+      "value": "Diese Einstellungen sollten nur von Techniker:innen oder unter Anleitung des technischen Kundendienstes geändert werden.",
       "type": "text",
       "$extensions": {
         "studio.tokens": {}
@@ -566,7 +566,7 @@
           "type": "text"
         },
         "message": {
-          "value": "Eine neue System-Firmware-Version ist verfügbar. Ein Update wird empfohlen.",
+          "value": "Eine neue Firmware ist für dein System verfügbar. Ein Update wird empfohlen.",
           "type": "text"
         }
       },
@@ -576,7 +576,7 @@
           "type": "text"
         },
         "message": {
-          "value": "Um ein Fehlschlagen des Updates zu vermeiden, beachte bitte unsere Hinweise zum Update der System-Firmware.",
+          "value": "Um ein Fehlschlagen des Updates zu vermeiden, beachte bitte unsere Anleitung zum Update der Firmware.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
@@ -668,7 +668,7 @@
           "type": "text"
         },
         "text": {
-          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nStand Januar 2024",
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelefon: +49 (0)30 2260 559 390\n\nSitz der Gesellschaft: Berlin, Deutschland\n\nRegistergericht: Amtsgericht Charlottenburg, HRB 10821 B\n\nUmsatzsteuer-Identifikationsnummer: DE 242 310 892\n\nGeschäftsführer: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nStand: Januar 2024",
           "type": "text"
         }
       },
@@ -678,7 +678,7 @@
           "type": "text"
         },
         "text": {
-          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Dezember 2023",
+          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Januar 2024",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
@@ -733,7 +733,7 @@
         "type": "text"
       },
       "start-instruction": {
-        "value": "Klicke hier, um die Kalibrierung zu starten.",
+        "value": "Bitte Kalibrierung starten.",
         "type": "text"
       },
       "cancel-calibration-description": {
@@ -943,7 +943,7 @@
           "type": "text"
         },
         "message": {
-          "value": "Nach dem Umbenennen des Systems musst du dich erneut verbinden.",
+          "value": "Nach Änderung des Bluetooth Namens musst du dich erneut verbinden.",
           "type": "text"
         }
       }

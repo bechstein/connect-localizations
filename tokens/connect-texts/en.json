@@ -180,7 +180,7 @@
   },
   "home": {
     "auto-standby": {
-      "value": "Auto Power Off",
+      "value": "Auto Standby",
       "type": "text"
     },
     "connect-instrument": {
@@ -493,7 +493,7 @@
   "sensor-brightness-control": {
     "instruction": {
       "recommended-settings": {
-        "value": "We recommend reducing the brightness of the sensor LEDs to a value of 175. Leave the “Black / White Ratio” at 0.",
+        "value": "The sensor technology works with an optical scanning of the key movements. In this process, LEDs mounted under the keyboard send bundled light against the bottom of the keys. From there the light is reflected, measured by sensors and then converted into a digital signal.",
         "type": "text"
       },
       "recalibration-needed": {
