@@ -55,7 +55,7 @@
         "type": "text"
       },
       "start-instruction": {
-        "value": "To start the calibration please press the button below.",
+        "value": "Please start the calibration.",
         "type": "text"
       },
       "cancel-calibration-description": {
@@ -340,7 +340,7 @@
       "type": "text"
     },
     "minimum-gap-hint": {
-      "value": "Note: The two values must have a minimum distance of {{ minimumGap }}.",
+      "value": "The two values must have a minimum distance of {{ minimumGap }}.",
       "type": "text"
     }
   },
@@ -386,7 +386,7 @@
       "type": "text"
     },
     "minimum-gap-hint": {
-      "value": "Note: The two values must have a minimum distance of {{ minimumGap }}.",
+      "value": "The two values must have a minimum distance of {{ minimumGap }}.",
       "type": "text"
     },
     "second-instruction": {
@@ -493,7 +493,7 @@
   "sensor-brightness-control": {
     "instruction": {
       "recommended-settings": {
-        "value": "The sensor technology works with an optical scanning of the key movements. In this process, LEDs mounted under the keyboard send bundled light against the bottom of the keys. From there the light is reflected, measured by sensors and then converted into a digital signal.",
+        "value": "The sensor technology of the VARIO digital system works with an optical scanning of the key movements. In this process, LEDs mounted under the keyboard send bundled light against the bottom of the keys. From there the light is reflected, measured by sensors and then converted into a digital signal.",
         "type": "text"
       },
       "recalibration-needed": {
@@ -510,7 +510,7 @@
       }
     },
     "key-sensor-led-brightness": {
-      "value": "Key Sensor LED Brightness",
+      "value": "Sensor LED Brightness",
       "type": "text"
     },
     "black-white-ratio": {
@@ -530,7 +530,7 @@
       "type": "text"
     },
     "recalibration-required-description": {
-      "value": "The Key Sensor LED Brightness has been changed. This requires the keys to be recalibrated.",
+      "value": "The Sensor Brightness has been changed. This requires the keys to be recalibrated.",
       "type": "text"
     }
   },
@@ -661,7 +661,7 @@
           "type": "text"
         },
         "message": {
-          "value": "Renaming the system requires you to reconnect to your instrument.",
+          "value": "After changing the Bluetooth name, you must reconnect.",
           "type": "text"
         }
       }
@@ -774,7 +774,7 @@
           "type": "text"
         },
         "message": {
-          "value": "A new system firmware version is available. An update is recommended.",
+          "value": "A new firmware version is available. An update is recommended.",
           "type": "text"
         }
       },
@@ -784,7 +784,7 @@
           "type": "text"
         },
         "message": {
-          "value": "To prevent the update from failing, please observe our instructions for updating the system firmware.",
+          "value": "To prevent the update from failing, please observe our instructions for updating the firmware.",
           "type": "text"
         }
       },
@@ -880,7 +880,7 @@
           "type": "text"
         },
         "text": {
-          "value": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team\n\nUpdate: December 2023",
+          "value": "The C. Bechstein Connect App does not transfer any personal data to the developers or to third parties. The OS also does not pass on any personal data to us, the developers of this app. Furthermore no thrid party analysis frameworks are used.\n\nThank you for your confidence,\nYour C. Bechstein Digital Team\n\nUpdated January 2024",
           "type": "text"
         },
         "interaction": {
