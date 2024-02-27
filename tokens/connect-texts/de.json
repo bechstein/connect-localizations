@@ -214,7 +214,7 @@
       "type": "text"
     },
     "instruction-footer": {
-      "value": "Die Einstellungen für Hammer- und Dämpferauslöser sind als eine Art Rahmen zu verstehen, in dessen Grenzen du die Einstellungen an dein gewünschtes dynamisches Verhalten der Tastatur anpassen kannst.",
+      "value": "Die Einstellungen für Hammer- und Dämpferauslösung sind als eine Art Rahmen zu verstehen, in dessen Grenzen du die Einstellungen an dein gewünschtes dynamisches Verhalten der Tastatur anpassen kannst.",
       "type": "text"
     },
     "instruction-header": {
