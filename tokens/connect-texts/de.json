@@ -705,7 +705,7 @@
           "type": "text"
         },
         "body": {
-          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect-App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
+          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
