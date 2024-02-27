@@ -48,7 +48,7 @@
 	"keys-adjustment.digital-hammer": "Hammerauslösung",
 	"keys-adjustment.first-instruction": "Liegt die Position der Hammerauslösung zu weit oben (bei vielen Tastaturen entspricht dies einem Wert von 40 oder weniger), benötigst du mehr Kraft, um ein klangliches Ergebnis im Forte/Fortissimo-Bereich zu erzielen.",
 	"keys-adjustment.fourth-instruction": "Viele Benutzer halten einen Wert von 60-65 für den optimalen Wert für die Hammerauslösung.",
-	"keys-adjustment.instruction-footer": "Die Einstellungen für Hammer- und Dämpferauslöser sind als eine Art Rahmen zu verstehen, in dessen Grenzen du die Einstellungen an dein gewünschtes dynamisches Verhalten der Tastatur anpassen kannst.",
+	"keys-adjustment.instruction-footer": "Die Einstellungen für Hammer- und Dämpferauslösung sind als eine Art Rahmen zu verstehen, in dessen Grenzen du die Einstellungen an dein gewünschtes dynamisches Verhalten der Tastatur anpassen kannst.",
 	"keys-adjustment.instruction-header": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
 	"keys-adjustment.second-instruction": "Ist die Position der Hammerauslösung hingegen sehr niedrig (etwa 70 oder mehr), gelangst du möglicherweise zu schnell ins Forte - stelle ihn zurück.",
 	"keys-adjustment.third-instruction": "Die Dämpferauslösung hat Auswirkungen auf die Möglichkeit des Repetierens. Befinden sich beide Werte – Hammer und Dämpfer – zu weit auseinander, muss die Taste u.U. zu weit zurückfallen, um neu auslösen zu können. Bei vielen Instrumenten hat sich ein Abstand von etwa 20 als optimal herausgestellt.",
