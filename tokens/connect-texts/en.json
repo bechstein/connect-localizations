@@ -926,8 +926,12 @@
         }
       }
     },
+    "overwrite-dark-mode": {
+      "value": "Ignore system appearance",
+      "type": "text"
+    },
     "dark-mode": {
-      "value": "Dark Mode",
+      "value": "Dark mode",
       "type": "text"
     },
     "simulate": {
