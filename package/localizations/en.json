@@ -214,5 +214,5 @@
 	"developer.send-log": "Send log",
 	"developer.send-log-email": "Via email",
 	"developer.email.subject": "Connect App Log",
-	"developer.email.body": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:"
+	"developer.email.body": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:\n\n"
 }
