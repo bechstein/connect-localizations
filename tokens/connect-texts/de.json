@@ -218,7 +218,7 @@
       "type": "text"
     },
     "instruction-header": {
-      "value": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
+      "value": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten trifft. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
       "type": "text"
     },
     "second-instruction": {
@@ -678,7 +678,7 @@
           "type": "text"
         },
         "text": {
-          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Januar 2024",
+          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für dein Vertrauen,\nDein C. Bechstein-Digital Team\n\nStand: Januar 2024",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
@@ -705,7 +705,7 @@
           "type": "text"
         },
         "body": {
-          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
+          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nDu sendest diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von deinen E-Mail Einstellungen erfolgt die Übertragung unverschlüsselt - bitte sende uns keine sensiblen persönlichen Informationen.\n\nDeine persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
