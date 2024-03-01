@@ -1016,8 +1016,12 @@
       "value": "Protokolliere simulation Ereignisse",
       "type": "text"
     },
-    "send-log": {
-      "value": "Sende Protokoll",
+    "share-log": {
+      "value": "Teile Protokoll",
+      "type": "text"
+    },
+    "download-log": {
+      "value": "Speichern",
       "type": "text"
     },
     "send-log-email": {

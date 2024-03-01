@@ -974,8 +974,12 @@
       "value": "Log simulation events",
       "type": "text"
     },
-    "send-log": {
-      "value": "Send log",
+    "share-log": {
+      "value": "Share log",
+      "type": "text"
+    },
+    "download-log": {
+      "value": "Download",
       "type": "text"
     },
     "send-log-email": {
