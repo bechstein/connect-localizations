@@ -926,6 +926,10 @@
         }
       }
     },
+    "appearance": {
+      "value": "Appearance",
+      "type": "text"
+    },
     "overwrite-dark-mode": {
       "value": "Ignore system appearance",
       "type": "text"
@@ -934,8 +938,12 @@
       "value": "Dark mode",
       "type": "text"
     },
-    "simulate": {
+    "simulation": {
       "value": "Simulation",
+      "type": "text"
+    },
+    "simulate": {
+      "value": "Enable simulation",
       "type": "text"
     },
     "demo-instrument": {
@@ -955,6 +963,10 @@
       "type": "text"
     },
     "log": {
+      "value": "Logging",
+      "type": "text"
+    },
+    "log-enabled": {
       "value": "Enable logging",
       "type": "text"
     },
@@ -978,12 +990,12 @@
       "value": "Log simulation events",
       "type": "text"
     },
-    "share-log": {
-      "value": "Share log",
+    "export-log": {
+      "value": "Export log",
       "type": "text"
     },
-    "download-log": {
-      "value": "Download",
+    "share-log": {
+      "value": "Share",
       "type": "text"
     },
     "send-log-email": {

@@ -968,6 +968,10 @@
         }
       }
     },
+    "appearance": {
+      "value": "Erscheinungsbild",
+      "type": "text"
+    },
     "overwrite-dark-mode": {
       "value": "Ignoriere Erscheinungsbild des Systems",
       "type": "text"
@@ -976,8 +980,12 @@
       "value": "Dunkelmodus",
       "type": "text"
     },
-    "simulate": {
+    "simulation": {
       "value": "Simulation",
+      "type": "text"
+    },
+    "simulate": {
+      "value": "Simuliere MIDI",
       "type": "text"
     },
     "demo-instrument": {
@@ -985,11 +993,11 @@
       "type": "text"
     },
     "remote-simulate": {
-      "value": "Remote Simulation",
+      "value": "Ferngesteuerte Simulation",
       "type": "text"
     },
     "remote-simulator-url": {
-      "value": "Remote Simulation URL",
+      "value": "URL des Simulations-Service",
       "type": "text"
     },
     "enforce-upgrade": {
@@ -998,6 +1006,10 @@
     },
     "log": {
       "value": "Protokoll",
+      "type": "text"
+    },
+    "log-enabled": {
+      "value": "Protokoll aktiv",
       "type": "text"
     },
     "log-discovery": {
@@ -1020,12 +1032,12 @@
       "value": "Protokolliere simulation Ereignisse",
       "type": "text"
     },
-    "share-log": {
-      "value": "Teile Protokoll",
+    "export-log": {
+      "value": "Protokoll exportieren",
       "type": "text"
     },
-    "download-log": {
-      "value": "Speichern",
+    "share-log": {
+      "value": "Teilen",
       "type": "text"
     },
     "send-log-email": {
