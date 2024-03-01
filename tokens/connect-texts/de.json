@@ -1030,7 +1030,7 @@
         "type": "text"
       },
       "body": {
-        "value": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:",
+        "value": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:\n\n",
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
