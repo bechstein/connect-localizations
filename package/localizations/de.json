@@ -211,7 +211,8 @@
 	"developer.log-gatt": "Protokolliere GATT Ereignisse",
 	"developer.log-midi": "Protokolliere MIDI Ereignisse",
 	"developer.log-simulation": "Protokolliere simulation Ereignisse",
-	"developer.send-log": "Sende Protokoll",
+	"developer.share-log": "Teile Protokoll",
+	"developer.download-log": "Speichern",
 	"developer.send-log-email": "Via email",
 	"developer.email.subject": "Connect App Protokoll",
 	"developer.email.body": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:\n\n"
