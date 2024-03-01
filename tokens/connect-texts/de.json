@@ -987,6 +987,55 @@
     "remote-simulator-url": {
       "value": "Remote Simulation URL",
       "type": "text"
+    },
+    "enforce-upgrade": {
+      "value": "Update erzwingen",
+      "type": "text"
+    },
+    "log": {
+      "value": "Protokoll",
+      "type": "text"
+    },
+    "log-discovery": {
+      "value": "Protokolliere discovery Ereignisse",
+      "type": "text"
+    },
+    "log-messaging": {
+      "value": "Protokolliere messaging Ereignisse",
+      "type": "text"
+    },
+    "log-gatt": {
+      "value": "Protokolliere GATT Ereignisse",
+      "type": "text"
+    },
+    "log-midi": {
+      "value": "Protokolliere MIDI Ereignisse",
+      "type": "text"
+    },
+    "log-simulation": {
+      "value": "Protokolliere simulation Ereignisse",
+      "type": "text"
+    },
+    "send-log": {
+      "value": "Sende Protokoll",
+      "type": "text"
+    },
+    "send-log-email": {
+      "value": "Via email",
+      "type": "text"
+    },
+    "email": {
+      "subject": {
+        "value": "Connect App Protokoll",
+        "type": "text"
+      },
+      "body": {
+        "value": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      }
     }
   }
 }

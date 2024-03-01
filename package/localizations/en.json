@@ -203,5 +203,16 @@
 	"developer.simulate": "Simulation",
 	"developer.demo-instrument": "Demo Instrument",
 	"developer.remote-simulate": "Remote Simulation",
-	"developer.remote-simulator-url": "Remote Simulation URL"
+	"developer.remote-simulator-url": "Remote Simulation URL",
+	"developer.enforce-upgrade": "Enforce an upgrade",
+	"developer.log": "Enable logging",
+	"developer.log-discovery": "Log discovery events",
+	"developer.log-messaging": "Log messaging events",
+	"developer.log-gatt": "Log GATT events",
+	"developer.log-midi": "Log MIDI events",
+	"developer.log-simulation": "Log simulation events",
+	"developer.send-log": "Send log",
+	"developer.send-log-email": "Via email",
+	"developer.email.subject": "Connect App Log",
+	"developer.email.body": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:"
 }

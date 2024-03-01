@@ -203,5 +203,16 @@
 	"developer.simulate": "Simulation",
 	"developer.demo-instrument": "Demo Instrument",
 	"developer.remote-simulate": "Remote Simulation",
-	"developer.remote-simulator-url": "Remote Simulation URL"
+	"developer.remote-simulator-url": "Remote Simulation URL",
+	"developer.enforce-upgrade": "Update erzwingen",
+	"developer.log": "Protokoll",
+	"developer.log-discovery": "Protokolliere discovery Ereignisse",
+	"developer.log-messaging": "Protokolliere messaging Ereignisse",
+	"developer.log-gatt": "Protokolliere GATT Ereignisse",
+	"developer.log-midi": "Protokolliere MIDI Ereignisse",
+	"developer.log-simulation": "Protokolliere simulation Ereignisse",
+	"developer.send-log": "Sende Protokoll",
+	"developer.send-log-email": "Via email",
+	"developer.email.subject": "Connect App Protokoll",
+	"developer.email.body": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:"
 }

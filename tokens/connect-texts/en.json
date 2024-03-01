@@ -945,6 +945,55 @@
     "remote-simulator-url": {
       "value": "Remote Simulation URL",
       "type": "text"
+    },
+    "enforce-upgrade": {
+      "value": "Enforce an upgrade",
+      "type": "text"
+    },
+    "log": {
+      "value": "Enable logging",
+      "type": "text"
+    },
+    "log-discovery": {
+      "value": "Log discovery events",
+      "type": "text"
+    },
+    "log-messaging": {
+      "value": "Log messaging events",
+      "type": "text"
+    },
+    "log-gatt": {
+      "value": "Log GATT events",
+      "type": "text"
+    },
+    "log-midi": {
+      "value": "Log MIDI events",
+      "type": "text"
+    },
+    "log-simulation": {
+      "value": "Log simulation events",
+      "type": "text"
+    },
+    "send-log": {
+      "value": "Send log",
+      "type": "text"
+    },
+    "send-log-email": {
+      "value": "Via email",
+      "type": "text"
+    },
+    "email": {
+      "subject": {
+        "value": "Connect App Log",
+        "type": "text"
+      },
+      "body": {
+        "value": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:",
+        "type": "text",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      }
     }
   }
 }
