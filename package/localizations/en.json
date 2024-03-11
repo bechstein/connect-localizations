@@ -38,7 +38,7 @@
 	"error.general.title": "Something Went Wrong",
 	"error.general.bodytext": "We encountered an unexpected issue. Please try again.",
 	"error.report.title": "Something Went Wrong (again)",
-	"error.report.bodytext": "We encountered an unexpected issue. Please allow us to look into this issue by sending the error report to us",
+	"error.report.bodytext": "We encountered an unexpected issue. Please allow us to look into this issue by sending the error report to us.",
 	"error.report.send": "Send report",
 	"home.auto-standby": "Auto Standby",
 	"home.connect-instrument": "Manage Connections",
