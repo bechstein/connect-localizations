@@ -256,6 +256,10 @@
     "developer": {
       "value": "Developer Features",
       "type": "text"
+    },
+    "exit-demo": {
+      "value": "Exit Demo Mode",
+      "type": "text"
     }
   },
   "instruments": {

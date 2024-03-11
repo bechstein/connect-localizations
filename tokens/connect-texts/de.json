@@ -146,6 +146,10 @@
     "developer": {
       "value": "Entwicklerfunktionen",
       "type": "text"
+    },
+    "exit-demo": {
+      "value": "Demo Modus beenden",
+      "type": "text"
     }
   },
   "instruments": {
