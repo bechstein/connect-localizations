@@ -176,20 +176,6 @@
         "value": "We encountered an unexpected issue. Please try again.",
         "type": "text"
       }
-    },
-    "report": {
-      "title": {
-        "value": "Something Went Wrong (again)",
-        "type": "text"
-      },
-      "bodytext": {
-        "value": "We encountered an unexpected issue. Please allow us to look into this issue by sending the error report to us.",
-        "type": "text"
-      },
-      "send": {
-        "value": "Send report",
-        "type": "text"
-      }
     }
   },
   "home": {
@@ -255,6 +241,10 @@
     },
     "developer": {
       "value": "Developer Features",
+      "type": "text"
+    },
+    "exit-demo": {
+      "value": "Exit Demo Mode",
       "type": "text"
     }
   },
@@ -884,7 +874,7 @@
           "type": "text"
         },
         "text": {
-          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelephone: +49 (0)30 2260 559 390\n\nRegistered office of the company: Berlin, Germany\n\nCommercial register: Amtsgericht Charlottenburg, HRB 10821 B\n\nVAT ID: DE 242 310 892\n\nCEOs: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nUpdated January 2024",
+          "value": "C. Bechstein Digital GmbH\nKantstraße 17\n10623 Berlin\n\nTelephone: +49 (0)30 2260 559 390\n\nRegistered office of the company: Berlin, Deutschland\n\nCommercial register: Amtsgericht Charlottenburg, HRB 10821 B\n\nVAT ID: DE 242 310 892\n\nCEOs: Werner Albrecht, Stefan Freymuth, Oliver Hutz\n\nUpdated January 2024",
           "type": "text"
         }
       },
@@ -940,24 +930,12 @@
         }
       }
     },
-    "appearance": {
-      "value": "Appearance",
-      "type": "text"
-    },
-    "overwrite-dark-mode": {
-      "value": "Ignore system appearance",
-      "type": "text"
-    },
     "dark-mode": {
-      "value": "Dark mode",
-      "type": "text"
-    },
-    "simulation": {
-      "value": "Simulation",
+      "value": "Dark Mode",
       "type": "text"
     },
     "simulate": {
-      "value": "Enable simulation",
+      "value": "Simulation",
       "type": "text"
     },
     "demo-instrument": {
@@ -971,63 +949,6 @@
     "remote-simulator-url": {
       "value": "Remote Simulation URL",
       "type": "text"
-    },
-    "enforce-upgrade": {
-      "value": "Enforce an upgrade",
-      "type": "text"
-    },
-    "log": {
-      "value": "Logging",
-      "type": "text"
-    },
-    "log-enabled": {
-      "value": "Enable logging",
-      "type": "text"
-    },
-    "log-discovery": {
-      "value": "Log discovery events",
-      "type": "text"
-    },
-    "log-messaging": {
-      "value": "Log messaging events",
-      "type": "text"
-    },
-    "log-gatt": {
-      "value": "Log GATT events",
-      "type": "text"
-    },
-    "log-midi": {
-      "value": "Log MIDI events",
-      "type": "text"
-    },
-    "log-simulation": {
-      "value": "Log simulation events",
-      "type": "text"
-    },
-    "export-log": {
-      "value": "Export log",
-      "type": "text"
-    },
-    "share-log": {
-      "value": "Share",
-      "type": "text"
-    },
-    "send-log-email": {
-      "value": "Via email",
-      "type": "text"
-    },
-    "email": {
-      "subject": {
-        "value": "Connect App Log",
-        "type": "text"
-      },
-      "body": {
-        "value": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:\n\n",
-        "type": "text",
-        "$extensions": {
-          "studio.tokens": {}
-        }
-      }
     }
   }
 }

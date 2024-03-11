@@ -66,20 +66,6 @@
         "value": "Es ist ein unerwartetes Problem aufgetreten. Bitte versuche es erneut.",
         "type": "text"
       }
-    },
-    "report": {
-      "title": {
-        "value": "Etwas ist schon wieder schiefgelaufen",
-        "type": "text"
-      },
-      "bodytext": {
-        "value": "Es ist erneut ein unerwartetes Problem aufgetreten. Bitte unterstütze uns beim Beheben, indem Du uns den Fehlerbericht zusendest.",
-        "type": "text"
-      },
-      "send": {
-        "value": "Fehlerbericht senden",
-        "type": "text"
-      }
     }
   },
   "home": {
@@ -145,6 +131,10 @@
     },
     "developer": {
       "value": "Entwicklerfunktionen",
+      "type": "text"
+    },
+    "exit-demo": {
+      "value": "Demo Modus beenden",
       "type": "text"
     }
   },
@@ -232,7 +222,7 @@
       "type": "text"
     },
     "instruction-header": {
-      "value": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten trifft. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
+      "value": "Die Auslösewerte stellen die Tastenposition dar, an der der Hammer oder der Dämpfer auf die Saiten treffen. Die Schieberegler stellen die Abwärtsbewegung (Hammer) und die Aufwärtsbewegung (Dämpfer) der Taste dar.",
       "type": "text"
     },
     "second-instruction": {
@@ -692,7 +682,7 @@
           "type": "text"
         },
         "text": {
-          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für dein Vertrauen,\nDein C. Bechstein-Digital Team\n\nStand: Januar 2024",
+          "value": "Die C. Bechstein Connect App überträgt keinerlei Daten an die Entwickler oder an Dritte. Das Betriebssystem gibt ebenso keinerlei personenbezogene Daten an uns, die Entwickler dieser App, weiter. Es kommen ferner keine Third-Party-Analyse-Frameworks zum Einsatz.\n\nWir danken für Ihr Vertrauen,\nIhr C. Bechstein-Digital Team\n\nStand: Januar 2024",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
@@ -719,7 +709,7 @@
           "type": "text"
         },
         "body": {
-          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nDu sendest diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von deinen E-Mail Einstellungen erfolgt die Übertragung unverschlüsselt - bitte sende uns keine sensiblen persönlichen Informationen.\n\nDeine persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
+          "value": "Lob, Kritik oder Vorschläge für eine zukünftige Version? Wir freuen uns auf dein Feedback zur Connect App. Bitte schreibe uns hier:\n\n\n\n\n\n\nDatenschutz Hinweis:\n\nSie senden diese E-Mail an die Mitarbeiter der C. Bechstein Digital GmbH mit Sitz in Berlin. Abhängig von Ihren E-Mail Einstellungen, erfolgt die Übertragung unverschlüsselt - bitte senden Sie uns keine sensiblen persönlichen Informationen.\n\nIhre persönlichen Daten (u.a. Name und E-Mail) werden von uns unverzüglich nach Beendigung unserer Korrespondenz gelöscht.",
           "type": "text",
           "$extensions": {
             "studio.tokens": {}
@@ -982,24 +972,12 @@
         }
       }
     },
-    "appearance": {
-      "value": "Erscheinungsbild",
-      "type": "text"
-    },
-    "overwrite-dark-mode": {
-      "value": "Ignoriere Erscheinungsbild des Systems",
-      "type": "text"
-    },
     "dark-mode": {
-      "value": "Dunkelmodus",
-      "type": "text"
-    },
-    "simulation": {
-      "value": "Simulation",
+      "value": "Dark Mode",
       "type": "text"
     },
     "simulate": {
-      "value": "Simuliere MIDI",
+      "value": "Simulation",
       "type": "text"
     },
     "demo-instrument": {
@@ -1007,69 +985,12 @@
       "type": "text"
     },
     "remote-simulate": {
-      "value": "Ferngesteuerte Simulation",
+      "value": "Remote Simulation",
       "type": "text"
     },
     "remote-simulator-url": {
-      "value": "URL des Simulations-Service",
+      "value": "Remote Simulation URL",
       "type": "text"
-    },
-    "enforce-upgrade": {
-      "value": "Update erzwingen",
-      "type": "text"
-    },
-    "log": {
-      "value": "Protokoll",
-      "type": "text"
-    },
-    "log-enabled": {
-      "value": "Protokoll aktiv",
-      "type": "text"
-    },
-    "log-discovery": {
-      "value": "Protokolliere discovery Ereignisse",
-      "type": "text"
-    },
-    "log-messaging": {
-      "value": "Protokolliere messaging Ereignisse",
-      "type": "text"
-    },
-    "log-gatt": {
-      "value": "Protokolliere GATT Ereignisse",
-      "type": "text"
-    },
-    "log-midi": {
-      "value": "Protokolliere MIDI Ereignisse",
-      "type": "text"
-    },
-    "log-simulation": {
-      "value": "Protokolliere simulation Ereignisse",
-      "type": "text"
-    },
-    "export-log": {
-      "value": "Protokoll exportieren",
-      "type": "text"
-    },
-    "share-log": {
-      "value": "Teilen",
-      "type": "text"
-    },
-    "send-log-email": {
-      "value": "Via email",
-      "type": "text"
-    },
-    "email": {
-      "subject": {
-        "value": "Connect App Protokoll",
-        "type": "text"
-      },
-      "body": {
-        "value": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:\n\n",
-        "type": "text",
-        "$extensions": {
-          "studio.tokens": {}
-        }
-      }
     }
   }
 }
