@@ -33,6 +33,7 @@
 	"home.tips-and-advices": "Tipps und Hinweise",
 	"home.help-info": "Hilfe & Informationen",
 	"home.developer": "Entwicklerfunktionen",
+	"home.exit-demo": "Demo Modus beenden",
 	"instruments.checking-instrument-connection": "Prüfe Verbindung zum Instrument",
 	"instruments.choose-instrument": "Bitte Instrument auswählen",
 	"instruments.connect-description": "Bitte auf \"Instrument verbinden / trennen\" tippen, um eine Verbindung über Bluetooth-MIDI herzustellen. Falls verfügbar, kann das Instrument auch über ein USB-Kabel verbunden werden.",
