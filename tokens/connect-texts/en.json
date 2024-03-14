@@ -179,11 +179,11 @@
     },
     "report": {
       "title": {
-        "value": "Something Went Wrong (again)",
+        "value": "Something Went Wrong",
         "type": "text"
       },
       "bodytext": {
-        "value": "We encountered an unexpected issue. Please allow us to look into this issue by sending the error report to us.",
+        "value": "We encountered an unexpected issue. Please allow us to look into this issue by sending the report to us.",
         "type": "text"
       },
       "send": {
