@@ -69,11 +69,11 @@
     },
     "report": {
       "title": {
-        "value": "Etwas ist schon wieder schiefgelaufen",
+        "value": "Etwas ist schiefgelaufen",
         "type": "text"
       },
       "bodytext": {
-        "value": "Es ist erneut ein unerwartetes Problem aufgetreten. Bitte unterstütze uns beim Beheben, indem Du uns den Fehlerbericht zusendest.",
+        "value": "Es ist ein unerwartetes Problem aufgetreten. Bitte unterstütze uns beim Beheben, indem Du uns den Fehlerbericht zusendest.",
         "type": "text"
       },
       "send": {
