@@ -1056,7 +1056,7 @@
           "type": "text"
         },
         "message": {
-          "value": "The current settings on your piano are incompatible with the app. To ensure compatibility and set new configurations, a reset is required. Are you willing to proceed with the reset?",
+          "value": "The current settings are incompatible with the app. To set new dynamic curve settings, a reset is required. Are you willing to proceed with the reset?",
           "type": "text"
         }
       }
