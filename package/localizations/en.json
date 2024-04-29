@@ -228,5 +228,5 @@
 	"dynamic-curve.dialog.reset.title": "Confirm Reset",
 	"dynamic-curve.dialog.reset.message": "Are you sure you want to reset the settings to their default values? This action cannot be undone.",
 	"dynamic-curve.dialog.incompatible.title": "Incompatibility Detected",
-	"dynamic-curve.dialog.incompatible.message": "The current settings on your piano are incompatible with the app. To ensure compatibility and set new configurations, a reset is required. Are you willing to proceed with the reset?"
+	"dynamic-curve.dialog.incompatible.message": "The current settings are incompatible with the app. To set new dynamic curve settings, a reset is required. Are you willing to proceed with the reset?"
 }
