@@ -57,6 +57,7 @@
 	"home.help-info": "Help & Information",
 	"home.developer": "Developer Features",
 	"home.exit-demo": "Exit Demo Mode",
+	"home.dynamic-curve": "Dynamic Curve",
 	"instruments.checking-instrument-connection": "Checking instrument connection",
 	"instruments.choose-instrument": "Please choose your instrument",
 	"instruments.connect-description": "Please tap on “Connect / Disconnect Instrument” to connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
@@ -223,5 +224,9 @@
 	"developer.share-log": "Share",
 	"developer.send-log-email": "Via email",
 	"developer.email.subject": "Connect App Log",
-	"developer.email.body": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:\n\n"
+	"developer.email.body": "Dear support,\n\nattached you'll find the captured log while I was spectating the following issue:\n\n",
+	"dynamic-curve.dialog.reset.title": "Confirm Reset",
+	"dynamic-curve.dialog.reset.message": "Are you sure you want to reset the settings to their default values? This action cannot be undone.",
+	"dynamic-curve.dialog.incompatible.title": "Incompatibility Detected",
+	"dynamic-curve.dialog.incompatible.message": "The current settings on your piano are incompatible with the app. To ensure compatibility and set new configurations, a reset is required. Are you willing to proceed with the reset?"
 }

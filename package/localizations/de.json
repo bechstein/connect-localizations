@@ -34,6 +34,7 @@
 	"home.help-info": "Hilfe & Informationen",
 	"home.developer": "Entwicklerfunktionen",
 	"home.exit-demo": "Demo Modus beenden",
+	"home.dynamic-curve": "Dynamikkurve",
 	"instruments.checking-instrument-connection": "Prüfe Verbindung zum Instrument",
 	"instruments.choose-instrument": "Bitte Instrument auswählen",
 	"instruments.connect-description": "Bitte auf \"Instrument verbinden / trennen\" tippen, um eine Verbindung über Bluetooth-MIDI herzustellen. Falls verfügbar, kann das Instrument auch über ein USB-Kabel verbunden werden.",
@@ -223,5 +224,9 @@
 	"developer.share-log": "Teilen",
 	"developer.send-log-email": "Via email",
 	"developer.email.subject": "Connect App Protokoll",
-	"developer.email.body": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:\n\n"
+	"developer.email.body": "Lieber Support,\n\nanbei erhaltet ihr ein Protokoll der Connect App während mir folgender Fehler aufgefallen ist:\n\n",
+	"dynamic-curve.dialog.reset.title": "Zurücksetzen bestätigen",
+	"dynamic-curve.dialog.reset.message": "Einstellungen auf Standardwerte zurücksetzen? Dies kann nicht rückgängig gemacht werden.",
+	"dynamic-curve.dialog.incompatible.title": "Inkompatibilität erkannt",
+	"dynamic-curve.dialog.incompatible.message": "Die aktuellen Einstellungen sind nicht mit der App kompatibel. Um die Kompatibilität sicherzustellen und neue Konfigurationen festzulegen, ist ein Zurücksetzen erforderlich. Einstellungen jetzt zurücksetzen?"
 }
