@@ -260,6 +260,10 @@
     "exit-demo": {
       "value": "Exit Demo Mode",
       "type": "text"
+    },
+    "dynamic-curve": {
+      "value": "Dynamic Curve",
+      "type": "text"
     }
   },
   "instruments": {
@@ -1030,6 +1034,30 @@
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
+        }
+      }
+    }
+  },
+  "dynamic-curve": {
+    "dialog": {
+      "reset": {
+        "title": {
+          "value": "Confirm Reset",
+          "type": "text"
+        },
+        "message": {
+          "value": "Are you sure you want to reset the settings to their default values? This action cannot be undone.",
+          "type": "text"
+        }
+      },
+      "incompatible": {
+        "title": {
+          "value": "Incompatibility Detected",
+          "type": "text"
+        },
+        "message": {
+          "value": "The current settings on your piano are incompatible with the app. To ensure compatibility and set new configurations, a reset is required. Are you willing to proceed with the reset?",
+          "type": "text"
         }
       }
     }

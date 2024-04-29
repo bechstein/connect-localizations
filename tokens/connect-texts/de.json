@@ -150,6 +150,10 @@
     "exit-demo": {
       "value": "Demo Modus beenden",
       "type": "text"
+    },
+    "dynamic-curve": {
+      "value": "Dynamikkurve",
+      "type": "text"
     }
   },
   "instruments": {
@@ -1072,6 +1076,30 @@
         "type": "text",
         "$extensions": {
           "studio.tokens": {}
+        }
+      }
+    }
+  },
+  "dynamic-curve": {
+    "dialog": {
+      "reset": {
+        "title": {
+          "value": "Zurücksetzen bestätigen",
+          "type": "text"
+        },
+        "message": {
+          "value": "Einstellungen auf Standardwerte zurücksetzen? Dies kann nicht rückgängig gemacht werden.",
+          "type": "text"
+        }
+      },
+      "incompatible": {
+        "title": {
+          "value": "Inkompatibilität erkannt",
+          "type": "text"
+        },
+        "message": {
+          "value": "Die aktuellen Einstellungen sind nicht mit der App kompatibel. Um die Kompatibilität sicherzustellen und neue Konfigurationen festzulegen, ist ein Zurücksetzen erforderlich. Einstellungen jetzt zurücksetzen?",
+          "type": "text"
         }
       }
     }
