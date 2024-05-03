@@ -57,7 +57,7 @@
 	"home.help-info": "Help & Information",
 	"home.developer": "Developer Features",
 	"home.exit-demo": "Exit Demo Mode",
-	"home.dynamic-curve": "Dynamic Curve",
+	"home.dynamic-curve": "Dynamic",
 	"instruments.checking-instrument-connection": "Checking instrument connection",
 	"instruments.choose-instrument": "Please choose your instrument",
 	"instruments.connect-description": "Please tap on “Connect / Disconnect Instrument” to connect via Bluetooth MIDI. If available, the instrument can also be connected via a USB cable.",
