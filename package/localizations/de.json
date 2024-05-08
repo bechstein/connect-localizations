@@ -203,7 +203,7 @@
 	"system-status.dialog.reconnect.message": "Nach Änderung des Bluetooth Namens musst du dich erneut verbinden.",
 	"system-status.mail.subject": "System Status - Connect App",
 	"developer.dialog.enabled.title": "Entwicklermodus",
-	"developer.dialog.enabled.message": "Entwicklermodus aktiv.",
+	"developer.dialog.enabled.message": "Entwicklermodus aktiv",
 	"developer.appearance": "Erscheinungsbild",
 	"developer.overwrite-dark-mode": "Ignoriere Erscheinungsbild des Systems",
 	"developer.dark-mode": "Dunkelmodus",
